@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><_ROOT_ EMVERSION="15.1" ORIENTATION="HORIZONTAL">
+<Workspace>
+<NODES>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="EMSave" ID="EMSave" X="287" Y="208" DESCRIPTION="Save Data" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="UTILITY" TOOLPREFIX="EMSave">
+<PROPERTIES Location="CATALOG" Catalog="Sashelp.Emutil.Savext.Source" Type="SAS7BDAT" Replace="Y" AllObs="Y" OutObs="1000" AllRoles="Y" Train="Y" Validate="Y" Test="Y" Score="Y" Transaction="Y" ForceRun="N" RunAction="Train" Component="EMSave" Lib="" DirectorySelector="" Name="">
+<VariableProperties/>
+<EmVariableAttributes/>
+<EmTargetAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMCORE.EXTENSION.CLASS" COMPONENT="FileImport" ID="FIMPORT" X="103" Y="324" DESCRIPTION="File Import" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="SAMPLE" TOOLPREFIX="FIMPORT">
+<PROPERTIES Location="CATALOG" Catalog="SASHELP.EMSAMP.Fimport.SOURCE" ImportType="Local" GuessRows="500" Delimiter="," NameRow="Y" SkipRows="0" MaxRows="1000000" MaxCols="10000" FileType="txt" Role="TRAIN" ForceRun="N" Summarize="N" AdvancedAdvisor="N" RunAction="Train" Component="FileImport" IFileName="D:\Repos\GitHub\um-wqd7005-telco-campaign-analysis\dataset\7k dataset.txt" AccessTable="NoTableName" UserID="NoUserID" Password="NoPassword">
+<VariableProperties/>
+<EmVariableAttributes>
+<DELTA Variable="ACTIVITY_STATUS_AFTER" AttributeName="ROLE" AttributeValue="TARGET"/>
+<DELTA Variable="ARPU_AFTER" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+<DELTA Variable="ARPU_BEFORE" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+<DELTA Variable="CPA_RVN_AFTER" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+<DELTA Variable="CPA_RVN_BEFORE" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+<DELTA Variable="DATA_CHRG_AFTER" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+<DELTA Variable="DATA_CHRG_BEFORE" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+<DELTA Variable="DATA_PURC_AFTER" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+<DELTA Variable="DATA_PURC_BEFORE" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+<DELTA Variable="NATIONALITY" AttributeName="LEVEL" AttributeValue="UNARY"/>
+<DELTA Variable="OFFER_TAKE_UP_DT" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+<DELTA Variable="RLD_AMT_AFTER" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+<DELTA Variable="RLD_AMT_BEFORE" AttributeName="LEVEL" AttributeValue="ORDINAL"/>
+</EmVariableAttributes>
+<EmTargetAttributes/>
+<EmFileProperties>
+<USERTRAINCODE Type="EXTERNAL" Extension="sas">
+<Data/>
+</USERTRAINCODE>
+<VARIABLESETDELTA Type="EXTERNAL" Extension="txt">
+<Data><![CDATA[
+if NAME=&quot;ACTIVITY_STATUS_AFTER&quot; then do;
+ROLE=&quot;TARGET&quot;;
+LEVEL=&quot;NOMINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;ARPU_AFTER&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;ARPU_BEFORE&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;CPA_RVN_AFTER&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;CPA_RVN_BEFORE&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;DATA_CHRG_AFTER&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;DATA_CHRG_BEFORE&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;DATA_PURC_AFTER&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;DATA_PURC_BEFORE&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;NATIONALITY&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;UNARY&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;OFFER_TAKE_UP_DT&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;RLD_AMT_AFTER&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+if NAME=&quot;RLD_AMT_BEFORE&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+DROP=&quot;N&quot;;
+end;
+]]>
+</Data>
+</VARIABLESETDELTA>
+<DELTACODE Type="EXTERNAL" Extension="txt">
+<Data><![CDATA[
+if NAME=&quot;ACTIVITY_STATUS_AFTER&quot; then do;
+ROLE=&quot;TARGET&quot;;
+LEVEL=&quot;NOMINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;ARPU_AFTER&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;ARPU_BEFORE&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;CPA_RVN_AFTER&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;CPA_RVN_BEFORE&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;DATA_CHRG_AFTER&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;DATA_CHRG_BEFORE&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;DATA_PURC_AFTER&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;DATA_PURC_BEFORE&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;NATIONALITY&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;UNARY&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;OFFER_TAKE_UP_DT&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;RLD_AMT_AFTER&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+if NAME=&quot;RLD_AMT_BEFORE&quot; then do;
+ROLE=&quot;INPUT&quot;;
+LEVEL=&quot;ORDINAL&quot;;
+ORDER=&quot;&quot;;
+end;
+drop DROP;
+]]>
+</Data>
+</DELTACODE>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMUTIL.EMMETADATA.CLASS" COMPONENT="Metadata" ID="Meta" X="271" Y="112" DESCRIPTION="Metadata" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="UTILITY" TOOLPREFIX="Meta">
+<PROPERTIES HideRejected="N" AdvancedAdvisor="N" CombineRule="NONE" ComputeStatistics="N" ForceRun="N" RunAction="Train" Component="Metadata">
+<VariableProperties/>
+<EmVariableAttributes>
+<DELTA Variable="ACTIVITY_STATUS_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="ACTVIITY_DAYS_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="AGE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="ARPU_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="ARPU_BEFORE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="CPA_RVN_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="CPA_RVN_BEFORE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="DATA_CHRG_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="DATA_CHRG_BEFORE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="DATA_PURC_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="DATA_PURC_BEFORE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="DATA_USG_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="DATA_USG_BEFORE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="GENDER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="NATIONALITY" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="OFFER_TAKER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="OFFER_TAKE_UP_DT" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="RLD_AMT_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="RLD_AMT_BEFORE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="RLD_IND_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="RLD_IND_BEFORE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="STATE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="STATUS_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="STATUS_BEFORE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="TENURE" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="VOICE_USG_AFTER" AttributeName="HIDDEN" AttributeValue="N"/>
+<DELTA Variable="VOICE_USG_BEFORE" AttributeName="HIDDEN" AttributeValue="N"/>
+</EmVariableAttributes>
+<EmTargetAttributes/>
+<EmFileProperties>
+<IMPORTSET Type="DATA">
+<Data>
+<Obs USE="Y" PORT="DATA" NODELABEL="FIMPORT" NODEPORT="TRAIN" LIBNAME="" DATASET="FIMPORT_train" ROLE="TRAIN" MODTIME="1984635617.2" COLUMNMETA="FIMPORT_CMeta_TRAIN" COLUMNMETAMODTIME="1984635617.6" EMINFO="" EMINFOMODTIME="." NOBS="-1" DATASOURCE=""/>
+<Obs USE="Y" PORT="VALIDATE" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="TEST" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="SCORE" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="TRANSACTION" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="DOCUMENT" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="CLUSMEAN" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="CLUSSTAT" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="ESTIMATE" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="RANK" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="REPORTFIT" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="RULES" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="SCOREDIST" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="TERMS" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="TREE" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+<Obs USE="Y" PORT="VARMAP" NODELABEL="" NODEPORT="" LIBNAME="" DATASET="" ROLE="" MODTIME="." COLUMNMETA="" COLUMNMETAMODTIME="." EMINFO="" EMINFOMODTIME="." NOBS="." DATASOURCE=""/>
+</Data>
+<Metadata>
+<Variable NAME="USE" LABEL="" LENGTH="1" FORMAT="" TYPE="C"/>
+<Variable NAME="PORT" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="NODELABEL" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="NODEPORT" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="LIBNAME" LABEL="" LENGTH="8" FORMAT="" TYPE="C"/>
+<Variable NAME="DATASET" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="ROLE" LABEL="" LENGTH="20" FORMAT="" TYPE="C"/>
+<Variable NAME="MODTIME" LABEL="" LENGTH="8" FORMAT="DATETIME20." TYPE="N"/>
+<Variable NAME="COLUMNMETA" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="COLUMNMETAMODTIME" LABEL="" LENGTH="8" FORMAT="DATETIME20." TYPE="N"/>
+<Variable NAME="EMINFO" LABEL="" LENGTH="32" FORMAT="" TYPE="C"/>
+<Variable NAME="EMINFOMODTIME" LABEL="" LENGTH="8" FORMAT="DATETIME20." TYPE="N"/>
+<Variable NAME="NOBS" LABEL="" LENGTH="8" FORMAT="" TYPE="N"/>
+<Variable NAME="DATASOURCE" LABEL="" LENGTH="29" FORMAT="" TYPE="C"/>
+</Metadata>
+</IMPORTSET>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+<NODE CLASS="SASHELP.EMEXPL.STATEXPLORE.CLASS" COMPONENT="StatExplore" ID="Stat" X="281" Y="324" DESCRIPTION="StatExplore" DIAGRAMID="_ROOT_" PARENTID="" TOOLTYPE="EXPLORE" TOOLPREFIX="Stat">
+<PROPERTIES BySegment="N" Correlation="Y" Spearman="N" Pearson="Y" ChiSquare="Y" ChiSquareInterval="N" ChiSquareIntervalNBins="5" MaximumVars="1000" HideVariable="Y" DropRejected="Y" UseValidate="N" UseTest="N" UseScore="N" NObs="100000" IntervalDistribution="Y" ClassDistribution="Y" LevelSummary="Y" ForceRun="N" RunAction="Train" Component="StatExplore">
+<VariableProperties/>
+<EmVariableAttributes/>
+<EmTargetAttributes/>
+<EmFileProperties>
+<CROSSTAB Type="DATA">
+<Data/>
+<Metadata/>
+</CROSSTAB>
+<EMNOTES Type="EXTERNAL" Extension="txt">
+<Data/>
+</EMNOTES>
+</EmFileProperties>
+</PROPERTIES>
+</NODE>
+</NODES>
+<CONNECTIONS>
+<CONNECTION FROM="FIMPORT" TO="Meta"/>
+<CONNECTION FROM="FIMPORT" TO="EMSave"/>
+<CONNECTION FROM="FIMPORT" TO="Stat"/>
+</CONNECTIONS>
+<NOTES>
+<DATA><![CDATA[
+
+]]>
+</DATA>
+</NOTES>
+</Workspace>
+</_ROOT_>
