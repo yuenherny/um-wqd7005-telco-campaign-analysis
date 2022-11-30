@@ -1,0 +1,728 @@
+,TENURE,AGE,GENDER,NATIONALITY,STATE,STATUS_BEFORE,STATUS_AFTER,OFFER_TAKER,OFFER_TAKE_UP_DT,DATA_PURC_BEFORE,DATA_PURC_AFTER,DATA_CHRG_BEFORE,DATA_CHRG_AFTER,DATA_USG_BEFORE,DATA_USG_AFTER,VOICE_USG_BEFORE,VOICE_USG_AFTER,RLD_IND_BEFORE,RLD_IND_AFTER,RLD_AMT_BEFORE,RLD_AMT_AFTER,CPA_RVN_BEFORE,CPA_RVN_AFTER,ARPU_BEFORE,ARPU_AFTER,ACTVIITY_DAYS_AFTER,ACTIVITY_STATUS_AFTER,PLAN_ID,PLAN_NAME
+0,133,33,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,Y,4.00,4.00,3.467714,3.312197,0.0,0.0,Y,Y,30.00,30.00,?,?,26.000000,17.000000,2,DURING & AFTER CAMP,1,Saver
+1,37,41,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.844969,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+2,44,21,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,3.497002,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,3,Premium
+3,176,69,Female,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,1,Saver
+4,171,79,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,N,N,?,?,1e-06,2e-06,0.0,0.0,N,N,?,?,?,?,?,?,5,DURING & AFTER CAMP,3,Premium
+5,62,44,Male,Malaysia,KEDAH,Active,Active,N,?,Y,N,1.00,?,3.767487,0.0,1.5833,0.0,Y,N,5.00,?,?,?,5.500000,?,18,DURING CAMP THEN REMAIN,3,Premium
+6,18,70,Male,Malaysia,PAHANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,1.1667,N,Y,?,10.00,?,?,?,1.600000,1,BEFORE & AFTER CAMP,1,Saver
+7,106,70,Male,Malaysia,N SEMBILAN,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,0.10,0.10,0.100000,0.100000,2,DURING & AFTER CAMP,3,Premium
+8,38,41,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.301793,7.142143,11.25,9.4666,Y,N,25.00,?,?,?,11.020000,4.200000,0,DURING & AFTER CAMP,1,Saver
+9,59,30,Male,Malaysia,SABAH,Active,Active,N,?,N,Y,?,4.00,0.157485,1.239222,0.0,1.9333,N,N,?,?,?,?,?,5.600000,4,BEFORE & AFTER CAMP,3,Premium
+10,48,24,Male,Malaysia,JOHORE,Active,Active,N,?,Y,N,4.00,?,4.522569,0.0,1.3333,0.0,Y,N,10.00,?,?,?,5.200000,?,38,NO ACTIVITY SINCE SEP,2,Normal
+11,37,63,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,27.99,?,0.0,0.0,13.1667,5.55,Y,Y,28.00,5.00,?,?,27.990000,1.800000,1,DURING & AFTER CAMP,1,Saver
+12,21,24,Female,Malaysia,TERENGGANU,Active,Active,N,?,N,Y,?,15.00,6.517911,8.258468,0.0,0.0,N,Y,?,10.00,?,?,?,15.000000,2,DURING & AFTER CAMP,1,Saver
+13,15,34,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.000272,0.201601,0.0,0.1,N,N,?,?,?,?,?,0.300000,5,BEFORE & AFTER CAMP,1,Saver
+14,24,66,Female,Malaysia,N SEMBILAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,1.73079,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,2,Normal
+15,33,30,Male,Malaysia,KELANTAN,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0833,0.0,Y,Y,5.00,5.00,?,?,0.600000,?,33,NO ACTIVITY SINCE SEP,2,Normal
+16,72,27,Male,Malaysia,SARAWAK,Active,Active,N,?,Y,N,1.50,?,18.595242,0.0,0.0,0.0,N,N,?,?,?,?,3.100000,?,37,NO ACTIVITY SINCE SEP,3,Premium
+17,21,35,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.425302,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,3,Premium
+18,48,33,Male,Malaysia,SELANGOR,Active,Active,Y,10/5/2022,Y,N,15.00,?,6e-05,0.0,4.1,0.0,N,N,?,?,?,?,1.750000,?,37,NO ACTIVITY SINCE SEP,3,Premium
+19,21,37,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.3667,0.0,N,N,?,?,?,?,0.600000,?,1,DURING & AFTER CAMP,1,Saver
+20,21,51,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.001297,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,3,Premium
+21,42,22,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,N,N,?,?,1.9e-05,0.000208,0.0,0.0,Y,Y,1955.00,1025.00,1050.00,100.00,550.000000,100.000000,4,DURING & AFTER CAMP,3,Premium
+22,37,26,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+23,81,24,Female,Malaysia,N SEMBILAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.000993,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+24,30,45,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.143895,0.0,4.9667,0.0,Y,N,10.00,?,?,?,2.640000,?,34,NO ACTIVITY SINCE SEP,2,Normal
+25,38,55,Female,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,5,DURING & AFTER CAMP,2,Normal
+26,45,69,Female,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,N,27.98,?,0.382207,0.121115,0.0,0.0,N,N,?,?,?,?,27.980000,?,12,DURING & AFTER CAMP,1,Saver
+27,118,30,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.016584,0.0,4.9667,0.0,Y,N,5.00,?,?,?,10.550000,?,33,NO ACTIVITY SINCE SEP,1,Saver
+28,67,28,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,24,BEFORE CAMP THEN REMAIN,1,Saver
+29,25,22,Female,Malaysia,KELANTAN,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+30,24,32,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,Y,?,5.00,?,?,0.200000,0.800000,6,BEFORE & AFTER CAMP,3,Premium
+31,33,24,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,2.634521,0.0,0.5667,0.0,Y,N,5.00,?,?,?,0.600000,?,2,DURING & AFTER CAMP,2,Normal
+32,32,26,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,1.672209,0.0,2.5,N,N,?,?,?,?,?,1.800000,0,DURING & AFTER CAMP,3,Premium
+33,53,26,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,4.978298,2.670709,0.0,0.0,N,N,?,?,1.14,?,?,?,5,DURING & AFTER CAMP,3,Premium
+34,21,28,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,17.034331,8.75269,2.4667,1.2833,N,N,?,?,?,?,0.650000,0.400000,0,BEFORE & AFTER CAMP,2,Normal
+35,84,37,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,39,NO ACTIVITY SINCE SEP,1,Saver
+36,206,32,Female,Malaysia,MALACCA,Active,Active,Y,10/5/2022,Y,N,15.00,?,2.930007,0.0,1.8833,0.0,Y,N,20.00,?,?,?,1.440000,?,6,DURING & AFTER CAMP,2,Normal
+37,25,36,Female,Malaysia,PENANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.1667,0.1,N,N,?,?,?,?,0.200000,0.200000,14,BEFORE & AFTER CAMP,3,Premium
+38,112,42,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.152231,0.0,0.0,0.0,N,N,?,?,?,?,?,?,39,NO ACTIVITY SINCE SEP,3,Premium
+39,112,29,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,10,BEFORE & AFTER CAMP,2,Normal
+40,201,56,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,0.4833,0.0,N,N,?,?,?,?,0.640000,?,15,DURING & AFTER CAMP,1,Saver
+41,89,68,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.391091,0.628568,0.0,0.0,N,Y,?,5.00,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+42,41,57,Female,Malaysia,PAHANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.007449,0.007389,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,1,Saver
+43,18,53,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.213881,1e-06,0.1333,0.0833,N,N,?,?,?,?,0.400000,0.500000,1,DURING & AFTER CAMP,3,Premium
+44,152,33,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,1,Saver
+45,72,67,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+46,35,64,Male,Malaysia,PAHANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.1e-05,0.0,0.0,0.0,N,Y,?,15.00,?,?,?,?,3,DURING & AFTER CAMP,1,Saver
+47,20,22,Male,Malaysia,KEDAH,Active,Active,N,?,N,N,?,?,0.002264,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,2,Normal
+48,38,49,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.012251,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,1,Saver
+49,34,35,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.029441,0.0,0.0,N,Y,?,10.00,?,?,?,?,0,BEFORE & AFTER CAMP,2,Normal
+50,45,65,Male,Malaysia,KELANTAN,Active,Active,Y,10/6/2022,Y,N,14.99,?,5.625761,0.0,17.7167,0.0,Y,N,150.00,?,4.20,?,83.990000,?,39,NO ACTIVITY SINCE SEP,3,Premium
+51,33,25,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,8e-05,4.568519,0.0,0.0,Y,N,10.00,?,?,15.90,?,15.900000,0,DURING & AFTER CAMP,3,Premium
+52,65,27,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,Y,5.00,5.00,?,?,?,?,6,BEFORE & AFTER CAMP,2,Normal
+53,30,29,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,2e-06,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,1,Saver
+54,29,27,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,29.98,?,0.001399,0.0,0.0,0.0,Y,N,980.00,?,991.00,?,1029.980000,?,33,NO ACTIVITY SINCE SEP,3,Premium
+55,47,29,Male,Malaysia,KEDAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,4.000000,?,33,NO ACTIVITY SINCE SEP,1,Saver
+56,27,60,Female,Malaysia,N SEMBILAN,Active,Active,N,?,N,N,?,?,0.000615,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+57,181,54,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.8833,0.0,Y,N,10.00,?,?,?,0.850000,?,0,BEFORE & AFTER CAMP,2,Normal
+58,51,32,Female,Malaysia,SABAH,Active,Active,N,?,Y,N,2.00,?,0.555319,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,1,Saver
+59,29,22,Female,Malaysia,KELANTAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,1.804914,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,3,Premium
+60,42,30,Male,Malaysia,SABAH,Active,Active,N,?,Y,Y,1.50,10.00,1.315041,1.688172,0.0,0.0,Y,Y,5.00,5.00,?,?,?,10.000000,0,DURING & AFTER CAMP,3,Premium
+61,26,25,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.000198,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,3,Premium
+62,25,24,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,Y,45.00,1.00,35.610532,64.012952,16.4167,77.75,Y,N,50.00,?,3.90,0.70,?,1.700000,0,DURING & AFTER CAMP,1,Saver
+63,21,22,Male,Malaysia,KELANTAN,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,23,BEFORE CAMP THEN REMAIN,1,Saver
+64,75,57,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.083205,2.4e-05,0.0,5.1167,N,N,?,?,?,?,?,2.400000,9,BEFORE & AFTER CAMP,1,Saver
+65,20,70,Male,Malaysia,MALACCA,Active,Active,Y,10/5/2022,Y,N,15.00,?,2.9e-05,1.7e-05,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+66,22,24,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,8.278478,0.0,16.85,0.0,Y,N,85.00,?,?,?,43.870000,?,37,NO ACTIVITY SINCE SEP,3,Premium
+67,39,29,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.000206,0.184808,0.0,0.0,N,N,?,?,?,?,?,?,12,BEFORE & AFTER CAMP,3,Premium
+68,56,26,Male,Malaysia,KELANTAN,Active,Active,N,?,N,Y,?,27.99,20.663924,40.060872,309.55,233.2833,N,Y,?,60.00,?,?,0.500000,55.980000,0,DURING & AFTER CAMP,2,Normal
+69,59,33,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+70,33,28,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,27.98,?,1.464862,0.0,202.5,0.0,N,Y,?,5.00,?,?,39.980000,6.000000,9,DURING & AFTER CAMP,3,Premium
+71,72,66,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,1.1167,1.3666,N,N,?,?,?,?,68.390000,0.520000,7,DURING & AFTER CAMP,3,Premium
+72,20,25,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.000105,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+73,69,36,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.530066,0.0,0.05,0.0,N,N,?,?,?,?,0.300000,?,36,NO ACTIVITY SINCE SEP,2,Normal
+74,47,22,Male,Malaysia,KELANTAN,Active,Active,Y,10/5/2022,Y,Y,15.00,4.00,2.540316,9.430508,0.0,0.0,Y,Y,5.00,20.00,?,?,?,10.100000,0,DURING & AFTER CAMP,3,Premium
+75,30,70,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,Y,15.00,4.00,0.01517,26.57045,0.0,0.0833,N,Y,?,5.00,?,?,?,4.930000,0,DURING & AFTER CAMP,3,Premium
+76,23,70,Male,Malaysia,KELANTAN,Active,Active,Y,10/5/2022,Y,Y,15.00,10.00,9.160062,106.167797,3.7,1.6166,Y,Y,25.00,115.00,5.00,2.50,19.500000,127.570000,0,DURING & AFTER CAMP,2,Normal
+77,19,26,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,21.603641,0.0,0.0,0.0,Y,N,30.00,?,?,?,17.600000,?,39,NO ACTIVITY SINCE SEP,1,Saver
+78,35,28,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,30.00,?,?,?,6.000000,?,24,BEFORE CAMP THEN REMAIN,3,Premium
+79,18,73,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,4.7e-05,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,3,Premium
+80,15,32,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,395.00,?,400.00,400.00,400.000000,400.000000,17,DURING & AFTER CAMP,2,Normal
+81,36,80,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.001633,0.0,16.8167,Y,Y,5.00,20.00,?,?,4.000000,10.900000,2,DURING & AFTER CAMP,3,Premium
+82,20,25,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.1e-05,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,3,Premium
+83,33,35,Male,Malaysia,KEDAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,3,Premium
+84,25,23,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,1.170861,0.067737,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,2,Normal
+85,42,24,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,1,Saver
+86,23,38,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,1,Saver
+87,70,26,Female,Malaysia,PAHANG,Active,Active,N,?,Y,N,4.00,?,0.766262,0.0,0.0,0.0,N,N,?,?,?,?,5.000000,?,33,NO ACTIVITY SINCE SEP,1,Saver
+88,22,36,Male,Malaysia,SABAH,Active,Active,N,?,Y,N,2.00,?,4.05158,0.0,2.7,0.0,Y,N,10.00,?,?,?,8.600000,?,33,NO ACTIVITY SINCE SEP,2,Normal
+89,228,78,Female,Malaysia,PENANG,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,1,Saver
+90,19,26,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,2e-06,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,1,Saver
+91,27,26,Male,Malaysia,KLANG VALLEY,Active,Close,N,?,Y,N,29.99,?,0.01115,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,1,Saver
+92,123,38,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,1,Saver
+93,35,23,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,7.032007,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,1,Saver
+94,27,22,Female,Malaysia,KEDAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.7e-05,0.0,0.0,0.0,N,N,?,?,?,?,?,?,39,NO ACTIVITY SINCE SEP,1,Saver
+95,54,25,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,8.00,?,23.647617,0.0,11.9166,0.0,Y,N,50.00,?,?,?,43.500000,?,37,NO ACTIVITY SINCE SEP,3,Premium
+96,43,43,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.719432,0.0,0.4,0.0,N,N,?,?,?,?,0.120000,?,37,NO ACTIVITY SINCE SEP,2,Normal
+97,25,23,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,Y,15.00,1.00,0.098228,4e-06,0.0,0.0,N,N,?,?,?,?,2.000000,1.000000,1,BEFORE & AFTER CAMP,2,Normal
+98,39,32,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,45.00,?,1.056761,0.0,0.0,0.0,Y,N,40.00,?,?,?,?,?,39,NO ACTIVITY SINCE SEP,1,Saver
+99,147,67,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,23,BEFORE CAMP THEN REMAIN,3,Premium
+100,196,48,Male,Malaysia,MALACCA,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,1,Saver
+101,188,69,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,3,Premium
+102,78,21,Female,Malaysia,KELANTAN,Active,Active,Y,10/5/2022,Y,Y,15.00,14.99,0.036803,15.303912,0.0,2.1333,N,Y,?,15.00,?,?,?,20.900000,0,BEFORE & AFTER CAMP,3,Premium
+103,22,68,Male,Malaysia,PENANG,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,2,Normal
+104,209,59,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,2.2333,N,N,?,?,?,?,?,0.900000,0,BEFORE & AFTER CAMP,1,Saver
+105,37,36,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,1.514187,0.416586,0.0,0.0167,N,N,?,?,?,?,?,0.010000,1,DURING & AFTER CAMP,2,Normal
+106,113,24,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,Y,?,5.00,?,?,?,?,1,DURING & AFTER CAMP,3,Premium
+107,95,27,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,2,Normal
+108,19,27,Male,Malaysia,TERENGGANU,Active,Active,N,?,N,N,?,?,0.0,4e-06,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+109,16,36,Male,Malaysia,PERLIS,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,1.681042,0.6167,2.7833,Y,N,5.00,?,?,?,1.000000,1.000000,0,BEFORE & AFTER CAMP,2,Normal
+110,15,71,Female,Malaysia,PAHANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,6.058599,0.354663,0.0333,0.0,N,N,?,?,?,?,0.200000,?,0,BEFORE & AFTER CAMP,2,Normal
+111,39,22,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,0.180000,?,2,DURING & AFTER CAMP,2,Normal
+112,89,35,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,35.00,?,3.107971,0.0,0.2333,0.0,Y,N,90.00,?,?,?,89.400000,?,35,NO ACTIVITY SINCE SEP,1,Saver
+113,54,27,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.257728,0.470117,2.3,19.6167,Y,Y,5.00,5.00,?,?,2.100000,7.800000,7,BEFORE & AFTER CAMP,3,Premium
+114,24,28,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,5,DURING & AFTER CAMP,3,Premium
+115,83,25,Unspecified,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,2.2e-05,2.946987,0.0,0.0,N,Y,?,10.00,3.90,?,3.900000,?,1,BEFORE & AFTER CAMP,1,Saver
+116,25,29,Female,Malaysia,KEDAH,Active,Active,Y,10/6/2022,Y,Y,15.00,1.50,6.337295,8.806281,0.0,0.0,Y,Y,5.00,5.00,?,?,3.030000,6.050000,2,DURING & AFTER CAMP,1,Saver
+117,45,64,Male,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+118,98,32,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.000448,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+119,20,59,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,26.81822,0.0,7.5,0.0,Y,N,45.00,?,?,?,31.050000,?,34,NO ACTIVITY SINCE SEP,2,Normal
+120,25,38,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,2,Normal
+121,130,43,Female,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,21,DURING CAMP THEN REMAIN,1,Saver
+122,28,41,Male,Malaysia,KEDAH,Active,Active,Y,10/5/2022,Y,N,14.99,?,15.884299,0.0,1.1,0.0,Y,N,40.00,?,13.47,?,12.500000,?,36,NO ACTIVITY SINCE SEP,1,Saver
+123,146,29,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,11,DURING & AFTER CAMP,2,Normal
+124,21,24,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.07072,5.991636,0.0,0.0,N,N,?,?,?,?,?,?,3,DURING & AFTER CAMP,3,Premium
+125,59,29,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,27.98,?,4.877975,3.579728,0.0,0.0,Y,N,30.00,?,?,?,27.990000,?,11,DURING & AFTER CAMP,1,Saver
+126,216,39,Female,Malaysia,MALACCA,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.985503,1.425295,0.0,1.1167,N,Y,?,30.00,?,?,2.000000,44.390000,1,BEFORE & AFTER CAMP,1,Saver
+127,46,69,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.2833,0.0,N,N,?,?,?,?,?,?,19,DURING CAMP THEN REMAIN,2,Normal
+128,43,26,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.006528,0.0,0.7833,0.0833,Y,N,10.00,?,?,?,1.800000,?,0,BEFORE & AFTER CAMP,3,Premium
+129,23,30,Male,Malaysia,PERAK,Active,Active,N,?,N,Y,?,15.00,3.752496,7.800677,40.65,46.8167,Y,Y,5.00,30.00,?,?,0.710000,39.710000,0,DURING & AFTER CAMP,3,Premium
+130,176,27,Female,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,Y,15.00,10.00,0.0,1.149803,0.0,0.95,Y,Y,5.00,20.00,?,?,?,10.300000,7,DURING & AFTER CAMP,1,Saver
+131,22,61,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,12.45,2.4833,Y,Y,15.00,10.00,?,?,8.200000,2.800000,4,BEFORE & AFTER CAMP,2,Normal
+132,29,30,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,1,Saver
+133,37,30,Male,Malaysia,N SEMBILAN,Active,Active,N,?,N,N,?,?,0.01664,0.859667,0.0,0.0,N,N,?,?,?,?,?,?,2,DURING & AFTER CAMP,3,Premium
+134,27,54,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.082973,0.075099,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,3,Premium
+135,71,24,Female,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,27.98,?,0.095688,0.0,0.0,0.0,Y,N,10.00,?,?,?,27.980000,?,37,NO ACTIVITY SINCE SEP,3,Premium
+136,19,45,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.000261,0.0,0.0,0.0,N,N,?,?,?,?,?,?,13,BEFORE & AFTER CAMP,2,Normal
+137,18,25,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,Y,15.00,14.99,28.391176,10.955425,1.2,0.0,Y,Y,25.00,10.00,?,?,21.810000,17.810000,0,DURING & AFTER CAMP,1,Saver
+138,30,33,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,Y,27.98,27.99,3.914991,12.105611,0.0,2.3833,N,Y,?,30.00,?,?,3.000000,27.990000,0,BEFORE & AFTER CAMP,2,Normal
+139,48,30,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,5.377552,0.0,20.5167,0.0,Y,N,45.00,?,?,?,17.700000,?,39,NO ACTIVITY SINCE SEP,3,Premium
+140,71,24,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,1.126166,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,6,BEFORE & AFTER CAMP,1,Saver
+141,84,32,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,2.702281,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,39,NO ACTIVITY SINCE SEP,3,Premium
+142,43,63,Female,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,Y,15.00,8.00,8.96681,32.612324,1.2333,0.15,Y,Y,30.00,25.00,21.19,?,28.090000,24.430000,0,DURING & AFTER CAMP,1,Saver
+143,179,32,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,49.98,?,1.505584,0.0,1.7,0.0,Y,N,60.00,?,?,?,89.340000,?,34,NO ACTIVITY SINCE SEP,3,Premium
+144,97,28,Female,Malaysia,TERENGGANU,Active,Active,N,?,Y,N,1.00,?,0.035711,0.0,0.0,0.0,N,Y,?,5.00,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+145,21,41,Female,Malaysia,TERENGGANU,Active,Active,N,?,N,Y,?,15.00,0.0,11.893926,0.0,0.0,N,Y,?,30.00,?,?,?,15.000000,0,DURING & AFTER CAMP,1,Saver
+146,46,31,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.748762,0.0,5.1166,0.0,Y,N,30.00,?,?,?,12.210000,2.000000,11,DURING & AFTER CAMP,2,Normal
+147,51,29,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,Y,15.00,5.00,0.399968,9.896361,0.0,0.0,N,N,?,?,?,?,?,9.500000,12,BEFORE & AFTER CAMP,1,Saver
+148,29,23,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,3,Premium
+149,27,37,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,29.801469,0.0,0.0,0.0,Y,N,25.00,?,?,?,21.900000,?,36,NO ACTIVITY SINCE SEP,3,Premium
+150,48,26,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,4e-06,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,1,Saver
+151,22,35,Male,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,8.914769,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,3,Premium
+152,68,37,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.116958,0.134888,0.0,0.0,N,N,?,?,?,?,?,?,15,DURING & AFTER CAMP,1,Saver
+153,71,27,Male,Malaysia,PAHANG,Active,Active,N,?,N,N,?,?,0.0,1.4e-05,0.0,0.0,N,Y,?,10.00,5.00,5.00,6.000000,5.000000,0,DURING & AFTER CAMP,3,Premium
+154,19,56,Female,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.000377,0.000421,0.0,0.0,Y,Y,5.00,5.00,7.80,3.90,7.800000,3.900000,0,DURING & AFTER CAMP,1,Saver
+155,146,55,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,8.0167,0.0,Y,N,20.00,?,?,?,16.920000,?,0,BEFORE & AFTER CAMP,3,Premium
+156,68,57,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,8,DURING & AFTER CAMP,1,Saver
+157,41,32,Female,Malaysia,SABAH,Active,Active,N,?,N,Y,?,4.00,0.859617,1.707591,0.6,0.1667,Y,Y,5.00,10.00,?,?,4.360000,4.600000,5,DURING & AFTER CAMP,3,Premium
+158,26,36,Female,Malaysia,TERENGGANU,Active,Active,Y,10/5/2022,Y,N,29.99,?,7.62488,1.572863,7.6,0.0,Y,N,30.00,?,?,?,2.600000,?,0,DURING & AFTER CAMP,2,Normal
+159,85,28,Female,Malaysia,SABAH,Active,Active,N,?,Y,N,3.00,?,0.531992,0.0,0.0,0.0,Y,N,10.00,?,?,?,6.000000,?,37,NO ACTIVITY SINCE SEP,1,Saver
+160,29,24,Male,Malaysia,KLANG VALLEY,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,1,Saver
+161,46,28,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,12.000000,?,34,NO ACTIVITY SINCE SEP,1,Saver
+162,52,35,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,39,NO ACTIVITY SINCE SEP,1,Saver
+163,51,23,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.690715,0.214417,0.0,0.0,N,N,?,?,?,?,1.500000,?,0,BEFORE & AFTER CAMP,2,Normal
+164,23,22,Female,Malaysia,PERAK,Active,Active,N,?,Y,N,1.50,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,2,Normal
+165,50,25,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,4e-06,0.0,0.0,N,N,?,?,?,?,?,?,2,DURING & AFTER CAMP,1,Saver
+166,40,29,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,27.000000,?,34,NO ACTIVITY SINCE SEP,3,Premium
+167,49,51,Male,Malaysia,N SEMBILAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.926123,2.559436,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+168,59,50,Male,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,9,BEFORE & AFTER CAMP,1,Saver
+169,102,28,Unspecified,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,1,Saver
+170,20,26,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.017339,0.0,14.4167,0.0,Y,N,5.00,?,?,?,4.800000,?,1,BEFORE & AFTER CAMP,2,Normal
+171,18,45,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,2.83317,0.0,7.0,0.0,Y,N,10.00,?,?,?,4.700000,?,34,NO ACTIVITY SINCE SEP,3,Premium
+172,70,62,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.017992,0.0,24.3167,0.0,Y,N,10.00,?,?,?,6.630000,?,35,NO ACTIVITY SINCE SEP,2,Normal
+173,15,29,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+174,25,28,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,Y,N,49.99,?,0.009335,0.0,0.0,0.0,Y,N,10.00,?,?,?,49.990000,?,7,BEFORE & AFTER CAMP,2,Normal
+175,19,39,Male,Malaysia,KELANTAN,Active,Active,Y,10/5/2022,Y,N,35.00,?,66.620421,0.0,0.0,0.0,N,N,?,?,?,?,35.000000,?,35,NO ACTIVITY SINCE SEP,1,Saver
+176,20,71,Female,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,2,Normal
+177,45,35,Female,Malaysia,PERAK,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,0.0,0.2667,N,N,?,?,?,?,?,0.390000,1,BEFORE & AFTER CAMP,1,Saver
+178,53,28,Male,Malaysia,MALACCA,Active,Active,Y,10/5/2022,Y,N,5.00,?,22.887751,0.0,0.0,0.0,Y,N,10.00,?,?,?,9.000000,?,33,NO ACTIVITY SINCE SEP,3,Premium
+179,113,27,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,12.90,?,12.900000,?,18,DURING CAMP THEN REMAIN,2,Normal
+180,52,58,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,2,Normal
+181,17,77,Male,Malaysia,MALACCA,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,3,Premium
+182,19,35,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,3.543948,0.0,0.0,0.0,Y,N,5.00,?,?,?,1.500000,?,22,DURING CAMP THEN REMAIN,2,Normal
+183,14,50,Male,Malaysia,N SEMBILAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,9.775335,0.0,2.9833,0.0,Y,N,65.00,?,?,?,42.100000,?,38,NO ACTIVITY SINCE SEP,3,Premium
+184,36,34,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.000576,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,1,Saver
+185,25,29,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,1.50,1.50,1.500000,13.500000,9,DURING & AFTER CAMP,2,Normal
+186,176,30,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,N,Y,?,10.00,0.0,2.292047,0.0,17.05,Y,N,100.00,?,?,?,?,14.810000,0,BEFORE & AFTER CAMP,3,Premium
+187,36,29,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,Y,6.00,3.00,0.516392,0.838229,0.0167,0.0,Y,N,30.00,?,?,?,7.700000,5.400000,2,BEFORE & AFTER CAMP,2,Normal
+188,30,24,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,1e-06,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,1,Saver
+189,216,87,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,3,Premium
+190,32,46,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.000215,0.015521,0.0,0.0,N,N,?,?,?,?,?,?,17,BEFORE & AFTER CAMP,1,Saver
+191,109,25,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,Y,5.00,5.00,?,?,?,?,15,DURING & AFTER CAMP,1,Saver
+192,63,25,Male,Malaysia,PENANG,Active,Active,N,?,Y,N,3.00,?,5.388676,0.0,5.4167,0.0,Y,N,10.00,?,?,?,6.000000,?,11,BEFORE & AFTER CAMP,1,Saver
+193,33,24,Female,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,4.347903,0.0,0.0,0.0,N,Y,?,5.00,?,?,?,?,33,NO ACTIVITY SINCE SEP,2,Normal
+194,94,26,Female,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.000671,0.0,0.0,0.0,N,N,?,?,?,?,?,?,5,BEFORE & AFTER CAMP,1,Saver
+195,126,37,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,9.35,19.3667,N,N,?,?,?,?,2.240000,4.480000,1,DURING & AFTER CAMP,2,Normal
+196,23,21,Male,Malaysia,TERENGGANU,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,Y,?,5.00,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+197,183,29,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,6.000000,8.000000,1,BEFORE & AFTER CAMP,1,Saver
+198,79,23,Male,Malaysia,PAHANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+199,142,50,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,2,Normal
+200,28,23,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,3,Premium
+201,25,60,Male,Malaysia,PAHANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,12.00,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+202,20,33,Female,Malaysia,SARAWAK,Active,Active,N,?,Y,N,5.00,?,1.715387,0.0,0.0,0.0,N,N,?,?,?,?,5.000000,?,36,NO ACTIVITY SINCE SEP,1,Saver
+203,35,22,Female,Malaysia,KEDAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,6.031788,0.0,0.0,0.0,N,N,?,?,?,?,?,?,11,DURING & AFTER CAMP,1,Saver
+204,84,62,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,29.99,?,5.084647,0.0,7.6833,0.0,Y,N,50.00,?,?,?,2.600000,?,34,NO ACTIVITY SINCE SEP,3,Premium
+205,20,34,Male,Malaysia,N SEMBILAN,Active,Active,N,?,Y,N,4.00,?,15.885453,0.0,2.15,0.0,Y,N,60.00,?,?,?,23.200000,?,36,NO ACTIVITY SINCE SEP,3,Premium
+206,72,26,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.6613,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,3,Premium
+207,26,-9999,?,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,1.030031,1e-06,0.0,0.0,N,Y,?,5.00,?,?,?,0.800000,0,BEFORE & AFTER CAMP,3,Premium
+208,23,29,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.543644,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,1,Saver
+209,152,24,Female,Malaysia,PERAK,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,DURING & AFTER CAMP,3,Premium
+210,26,51,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,2.1667,0.0,Y,N,5.00,?,?,?,1.800000,?,38,NO ACTIVITY SINCE SEP,1,Saver
+211,48,39,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.010997,0.0,0.0,0.1333,Y,N,10.00,?,?,?,4.000000,?,4,DURING & AFTER CAMP,3,Premium
+212,57,30,Male,Malaysia,JOHORE,Active,Active,N,?,Y,Y,8.00,8.00,3.923683,1.066892,8.4167,0.0,Y,Y,10.00,10.00,?,?,10.470000,8.000000,2,BEFORE & AFTER CAMP,1,Saver
+213,111,71,Male,Malaysia,N SEMBILAN,Active,Active,Y,10/6/2022,N,N,?,?,2.6e-05,8.7e-05,0.1333,6.0833,Y,N,30.00,?,?,?,0.260000,1.690000,0,DURING & AFTER CAMP,2,Normal
+214,72,45,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.097805,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,4,DURING & AFTER CAMP,2,Normal
+215,46,25,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,8.108966,7.8978,0.4,2.1333,Y,Y,10.00,20.00,11.80,16.40,12.100000,17.300000,1,BEFORE & AFTER CAMP,3,Premium
+216,127,52,Female,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,4.791217,0.0,0.0,0.0,N,N,?,?,?,?,3.000000,?,0,BEFORE & AFTER CAMP,2,Normal
+217,21,40,Male,Malaysia,TERENGGANU,Active,Active,Y,10/6/2022,Y,N,15.00,?,27.137174,0.0,0.0,0.0,Y,N,40.00,?,?,?,18.800000,?,33,NO ACTIVITY SINCE SEP,3,Premium
+218,24,24,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.013645,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,3,Premium
+219,28,28,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,3.786712,0.0,8.7833,0.0,N,N,?,?,?,?,2.470000,?,36,NO ACTIVITY SINCE SEP,1,Saver
+220,44,44,Male,Malaysia,PAHANG,Active,Active,Y,10/6/2022,Y,Y,15.00,12.00,0.566979,0.816653,0.0,0.0,Y,Y,20.00,20.00,?,?,12.000000,19.000000,3,DURING & AFTER CAMP,3,Premium
+221,131,57,Female,Malaysia,PENANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,2.7e-05,3.9e-05,14.0334,14.3667,N,N,?,?,?,?,18.480000,5.480000,0,DURING & AFTER CAMP,2,Normal
+222,147,30,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,10.5333,N,Y,?,10.00,?,?,?,8.700000,0,BEFORE & AFTER CAMP,3,Premium
+223,29,73,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,Y,?,15.00,?,?,?,?,8,BEFORE & AFTER CAMP,3,Premium
+224,95,62,Male,Malaysia,SARAWAK,Active,Active,N,?,Y,Y,27.99,27.99,0.190408,0.242408,1.65,33.0667,Y,Y,30.00,60.00,?,?,1.600000,34.000000,0,BEFORE & AFTER CAMP,1,Saver
+225,102,31,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.448384,0.046869,0.0,0.0,N,Y,?,10.00,?,?,?,0.800000,4,DURING & AFTER CAMP,3,Premium
+226,119,31,Female,Malaysia,JOHORE,Active,Active,N,?,Y,Y,8.00,8.00,2.538801,8.277078,0.0,0.0,Y,Y,10.00,10.00,?,?,9.500000,10.500000,4,DURING & AFTER CAMP,1,Saver
+227,37,61,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.002992,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+228,41,25,Female,Malaysia,KEDAH,Active,Active,N,?,N,N,?,?,0.459622,0.0,0.0,0.0,N,N,?,?,11.90,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+229,34,25,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+230,44,31,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.162082,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,2,Normal
+231,17,38,Male,Malaysia,KELANTAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.059699,0.85258,0.0,0.0,N,N,?,?,?,?,1.000000,?,2,BEFORE & AFTER CAMP,1,Saver
+232,71,22,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.068429,0.110513,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,2,Normal
+233,46,25,Male,Malaysia,PAHANG,Active,Active,N,?,Y,Y,3.00,1.50,4.423219,0.0,0.5667,0.0,Y,N,30.00,?,?,?,6.800000,2.500000,12,BEFORE & AFTER CAMP,3,Premium
+234,92,23,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,2.000000,?,1,DURING & AFTER CAMP,1,Saver
+235,19,25,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.173895,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,1.000000,5,DURING & AFTER CAMP,1,Saver
+236,33,47,Male,Malaysia,N SEMBILAN,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.007321,0.312945,0.0,0.0,Y,N,10.00,?,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+237,14,22,Male,Malaysia,TERENGGANU,Active,Active,N,?,N,N,?,?,0.007258,0.0,0.0,0.0,N,N,?,?,?,?,?,?,19,DURING CAMP THEN REMAIN,1,Saver
+238,58,24,Male,Malaysia,N SEMBILAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.613225,0.0,0.0,0.0,N,N,?,?,?,?,?,?,20,DURING CAMP THEN REMAIN,3,Premium
+239,104,26,Male,Malaysia,KEDAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.327038,0.0,0.0,0.0,Y,N,10.00,?,3.90,3.90,3.900000,3.900000,6,BEFORE & AFTER CAMP,3,Premium
+240,222,84,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,27.99,?,0.025617,0.0,1.15,0.0,N,N,?,?,?,?,27.990000,?,39,NO ACTIVITY SINCE SEP,3,Premium
+241,54,59,Male,Malaysia,N SEMBILAN,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0167,0.0,Y,N,5.00,?,?,?,1.100000,?,37,NO ACTIVITY SINCE SEP,2,Normal
+242,80,35,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,8.423673,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,DURING & AFTER CAMP,3,Premium
+243,24,46,Male,Malaysia,PAHANG,Active,Active,N,?,N,Y,?,15.00,0.0,1.156238,0.0,0.0,N,N,?,?,?,?,?,15.100000,0,DURING & AFTER CAMP,1,Saver
+244,53,22,Unspecified,Malaysia,JOHOR,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,3,Premium
+245,34,22,Female,Malaysia,SABAH,Active,Active,N,?,Y,N,3.00,?,1.812633,0.0,1.0667,0.0,Y,N,15.00,?,?,?,12.200000,?,34,NO ACTIVITY SINCE SEP,3,Premium
+246,48,31,Unspecified,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,Y,27.99,27.98,3.083397,7.886696,56.3167,88.9833,Y,Y,60.00,40.00,?,?,59.190000,39.680000,0,DURING & AFTER CAMP,1,Saver
+247,15,24,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,19.908054,10.867682,0.2,0.5,N,N,?,?,?,?,0.350000,0.100000,0,BEFORE & AFTER CAMP,1,Saver
+248,44,73,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,23,BEFORE CAMP THEN REMAIN,1,Saver
+249,22,46,Female,Malaysia,KELANTAN,Active,Active,Y,10/6/2022,Y,N,15.00,?,5.091174,0.0,1.4333,0.0,Y,N,5.00,?,?,?,4.400000,?,20,DURING CAMP THEN REMAIN,2,Normal
+250,64,26,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.002072,0.0,0.0,Y,Y,150.00,140.00,?,?,40.000000,220.000000,0,DURING & AFTER CAMP,2,Normal
+251,55,22,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.041622,0.072536,0.0,0.0,N,N,?,?,?,?,?,?,8,BEFORE & AFTER CAMP,3,Premium
+252,30,31,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,12,BEFORE & AFTER CAMP,2,Normal
+253,44,45,Male,Malaysia,PAHANG,Active,Active,N,?,N,N,?,?,6e-06,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+254,10,30,Male,Malaysia,N SEMBILAN,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,1,Saver
+255,69,35,Female,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,12,DURING & AFTER CAMP,3,Premium
+256,51,26,Male,Malaysia,TERENGGANU,Active,Active,N,?,N,N,?,?,0.762899,0.0,0.0,0.0,N,N,?,?,?,?,?,?,4,DURING & AFTER CAMP,2,Normal
+257,18,24,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,6e-06,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,1,Saver
+258,62,66,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,2.846814,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,1,Saver
+259,66,30,Unspecified,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,1,Saver
+260,15,48,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,2.539287,0.33864,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+261,83,24,Female,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.002846,9e-06,0.0,0.0,Y,Y,5.00,5.00,?,?,?,?,0,DURING & AFTER CAMP,3,Premium
+262,44,64,Male,Malaysia,PENANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.000291,0.000215,0.0,0.0,N,N,?,?,?,?,?,?,9,DURING & AFTER CAMP,3,Premium
+263,29,36,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+264,228,55,Male,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.000208,0.0,1.0,0.0,Y,N,5.00,?,?,?,0.720000,?,33,NO ACTIVITY SINCE SEP,2,Normal
+265,58,30,Female,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,Y,?,5.00,?,?,?,?,17,BEFORE & AFTER CAMP,3,Premium
+266,39,54,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.010754,0.262982,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+267,153,61,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,11,DURING & AFTER CAMP,1,Saver
+268,44,26,Female,Malaysia,KEDAH,Active,Active,N,?,Y,N,1.50,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,39,NO ACTIVITY SINCE SEP,3,Premium
+269,18,23,Female,Malaysia,KEDAH,Active,Active,N,?,N,N,?,?,0.0,2.029368,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+270,91,33,Male,Malaysia,TERENGGANU,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.165787,0.042908,0.0,0.0,Y,N,5.00,?,?,?,?,?,13,BEFORE & AFTER CAMP,3,Premium
+271,16,23,Female,Malaysia,JOHOR,Active,Active,Y,10/6/2022,Y,N,15.00,?,7.585677,0.0,113.0,0.0,N,N,?,?,?,?,6.400000,?,35,NO ACTIVITY SINCE SEP,3,Premium
+272,19,45,Male,Malaysia,SARAWAK,Active,Active,N,?,N,Y,?,4.00,0.044008,0.160565,1.8,9.2167,Y,N,10.00,?,?,?,0.900000,8.200000,8,DURING & AFTER CAMP,2,Normal
+273,61,26,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+274,113,76,Female,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,20.6,N,N,?,?,?,?,?,5.920000,0,DURING & AFTER CAMP,2,Normal
+275,23,22,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,Y,N,29.99,?,0.18779,0.087806,0.0,0.0,Y,N,30.00,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+276,268,64,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,2e-06,0.0,1.5667,N,Y,?,5.00,?,?,?,0.900000,1,DURING & AFTER CAMP,2,Normal
+277,92,51,Female,Malaysia,PENANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,3,Premium
+278,57,39,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+279,224,54,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,Y,5.00,5.00,?,?,?,?,36,NO ACTIVITY SINCE SEP,2,Normal
+280,65,27,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,Y,Y,1.50,1.50,2.866681,2.514355,4.3166,7.4,Y,Y,5.00,10.00,?,?,5.000000,6.800000,0,BEFORE & AFTER CAMP,1,Saver
+281,35,22,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,3.132969,0.0,0.0,0.0,Y,Y,10.00,5.00,?,?,6.800000,?,7,DURING & AFTER CAMP,1,Saver
+282,123,32,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,3,Premium
+283,20,24,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,39,NO ACTIVITY SINCE SEP,2,Normal
+284,112,31,Male,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.010977,0.000379,0.0,0.0,N,N,?,?,?,?,?,?,17,DURING & AFTER CAMP,3,Premium
+285,18,40,Male,Malaysia,KEDAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,16,BEFORE & AFTER CAMP,1,Saver
+286,66,59,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,29.99,?,0.049011,0.013365,12.3,1.4,Y,N,15.00,?,?,?,31.490000,0.600000,17,DURING & AFTER CAMP,1,Saver
+287,199,31,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,Y,15.00,4.00,0.766942,0.855164,0.0,0.0,N,N,?,?,?,?,6.000000,8.000000,10,DURING & AFTER CAMP,1,Saver
+288,36,40,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,Y,15.00,10.00,0.001718,0.950269,0.5667,0.0,N,Y,?,10.00,?,?,0.170000,10.000000,1,DURING & AFTER CAMP,2,Normal
+289,20,35,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,1.1e-05,0.0,0.0,N,Y,?,3.00,?,?,?,?,1,BEFORE & AFTER CAMP,3,Premium
+290,47,67,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,3,Premium
+291,95,36,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,1,Saver
+292,29,29,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.009657,0.0,0.0,0.0,N,N,?,?,?,?,?,?,19,DURING CAMP THEN REMAIN,3,Premium
+293,67,24,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,12,BEFORE & AFTER CAMP,3,Premium
+294,81,40,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,13,BEFORE & AFTER CAMP,3,Premium
+295,26,55,Male,Malaysia,PAHANG,Active,Active,N,?,N,N,?,?,0.274872,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+296,28,52,Male,Malaysia,PERAK,Active,Active,N,?,N,Y,?,4.00,0.0,0.371928,0.0,0.0,N,N,?,?,?,?,?,4.000000,0,DURING & AFTER CAMP,3,Premium
+297,106,76,Male,Malaysia,PAHANG,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,0.0,0.2833,Y,N,10.00,?,?,?,?,0.260000,3,DURING & AFTER CAMP,1,Saver
+298,19,65,Male,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.001001,0.004602,1.3667,0.1333,N,N,?,?,?,?,0.500000,0.200000,6,BEFORE & AFTER CAMP,3,Premium
+299,79,35,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,Y,15.00,6.00,2.567462,18.20881,0.0,0.1,Y,Y,5.00,35.00,?,?,4.000000,39.600000,2,DURING & AFTER CAMP,3,Premium
+300,83,48,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,8.000000,8.000000,14,DURING & AFTER CAMP,2,Normal
+301,29,26,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,3,DURING & AFTER CAMP,2,Normal
+302,18,29,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,5,DURING & AFTER CAMP,2,Normal
+303,238,58,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,2,Normal
+304,33,43,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,?,?,16.000000,8.000000,7,DURING & AFTER CAMP,2,Normal
+305,41,42,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,11.34767,0.001676,0.0667,0.0,Y,Y,5.00,5.00,6.80,?,7.400000,?,1,DURING & AFTER CAMP,3,Premium
+306,70,35,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,1.261206,0.0,13.6833,N,Y,?,15.00,?,?,?,5.100000,0,DURING & AFTER CAMP,2,Normal
+307,22,36,Female,Malaysia,KEDAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.72154,0.000113,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,2,Normal
+308,223,82,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.55,0.0,N,N,?,?,?,?,0.720000,?,0,BEFORE & AFTER CAMP,1,Saver
+309,46,29,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.433707,0.012036,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+310,38,35,Female,Malaysia,KEDAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.177363,7.333871,0.0,4.3167,N,N,?,?,?,?,?,2.400000,0,BEFORE & AFTER CAMP,3,Premium
+311,49,36,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,2e-06,2.4e-05,0.0,0.0,Y,Y,5.00,5.00,?,?,?,?,4,DURING & AFTER CAMP,2,Normal
+312,20,26,Male,Malaysia,KLANG VALLEY,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,19,DURING CAMP THEN REMAIN,2,Normal
+313,55,28,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.577702,0.000246,0.0,0.0,N,N,?,?,?,?,9.990000,?,0,BEFORE & AFTER CAMP,3,Premium
+314,27,56,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,1,Saver
+315,48,24,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.167032,2.133099,0.0,0.0,Y,N,10.00,?,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+316,37,42,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,Y,Y,30.00,10.00,?,?,?,?,34,NO ACTIVITY SINCE SEP,3,Premium
+317,43,25,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,Y,15.00,3.00,16.047994,18.915773,0.0,0.0,N,Y,?,35.00,?,?,?,12.800000,0,BEFORE & AFTER CAMP,2,Normal
+318,4,46,Female,Malaysia,TERENGGANU,Active,Active,N,?,N,Y,?,1.00,0.0,0.045208,0.0,0.0,N,N,?,?,?,?,?,2.000000,0,BEFORE & AFTER CAMP,3,Premium
+319,64,23,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,Y,Y,5.00,10.00,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+320,14,23,Male,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+321,25,25,Male,Malaysia,N SEMBILAN,Active,Active,Y,10/6/2022,Y,N,29.99,?,11.467972,0.0,0.2333,0.0,Y,N,25.00,?,?,?,30.290000,?,38,NO ACTIVITY SINCE SEP,2,Normal
+322,19,29,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,Y,7.00,5.00,13.63516,44.595498,0.0,0.0,Y,Y,40.00,30.00,?,?,14.600000,38.800000,0,DURING & AFTER CAMP,1,Saver
+323,250,75,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.2167,59.2,N,Y,?,25.00,?,?,0.320000,14.720000,0,BEFORE & AFTER CAMP,1,Saver
+324,53,35,Female,Malaysia,TERENGGANU,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.221891,2.1e-05,0.0,0.0,N,N,?,?,?,?,?,?,11,DURING & AFTER CAMP,3,Premium
+325,79,24,Female,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.000106,0.0,0.0,0.0,N,Y,?,5.00,?,?,?,?,16,DURING & AFTER CAMP,1,Saver
+326,36,33,Female,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,18,DURING CAMP THEN REMAIN,2,Normal
+327,44,25,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,Y,10.00,10.00,2.72329,1.196526,0.0,0.0,Y,Y,15.00,20.00,?,?,18.000000,10.000000,0,BEFORE & AFTER CAMP,1,Saver
+328,142,73,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+329,49,77,Male,Malaysia,PERAK,Active,Active,N,?,Y,Y,29.98,29.99,0.072929,1.332695,0.0,4.5667,N,Y,?,30.00,?,?,?,31.690000,0,BEFORE & AFTER CAMP,1,Saver
+330,27,26,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.042609,0.687323,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,1,Saver
+331,18,33,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,1e-06,1e-06,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,1,Saver
+332,12,29,Male,Malaysia,SELANGOR,Active,Active,N,?,N,N,?,?,4.6e-05,0.0,0.0,0.0,Y,Y,5.00,5.00,?,?,?,?,9,DURING & AFTER CAMP,3,Premium
+333,95,51,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0201,0.0,0.0,0.0,Y,N,10.00,?,?,?,4.000000,?,1,BEFORE & AFTER CAMP,1,Saver
+334,18,26,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,3,Premium
+335,17,22,Female,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,Y,34.99,20.00,1.512467,1.213623,0.0,2.4,Y,N,30.00,?,?,?,34.990000,20.000000,0,DURING & AFTER CAMP,2,Normal
+336,89,69,Female,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,27.99,?,0.0,0.0,58.85,0.0,Y,N,30.00,?,?,?,27.990000,?,34,NO ACTIVITY SINCE SEP,3,Premium
+337,15,37,Male,Malaysia,PAHANG,Active,Active,N,?,N,N,?,?,0.438663,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+338,117,25,Female,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,3.000000,16,DURING & AFTER CAMP,3,Premium
+339,11,24,Female,Malaysia,NEGERI SEMBILAN,Active,Active,Y,10/5/2022,Y,N,12.00,?,12.928292,0.0,0.1333,0.0,Y,Y,30.00,5.00,?,?,27.200000,?,36,NO ACTIVITY SINCE SEP,1,Saver
+340,90,26,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,3.335004,8.74341,1.9333,3.15,Y,Y,5.00,8.00,?,?,1.200000,2.200000,0,DURING & AFTER CAMP,1,Saver
+341,69,36,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,5,BEFORE & AFTER CAMP,3,Premium
+342,24,50,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,0.100000,?,20,DURING CAMP THEN REMAIN,2,Normal
+343,91,36,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,0.20,?,0.200000,?,35,NO ACTIVITY SINCE SEP,1,Saver
+344,38,50,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.115157,2.715821,0.0,0.0,N,N,?,?,?,?,?,?,3,BEFORE & AFTER CAMP,1,Saver
+345,72,33,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.600747,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+346,28,24,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.001854,1.453201,0.0,3.5333,N,Y,?,10.00,?,?,?,13.560000,13,DURING & AFTER CAMP,3,Premium
+347,91,54,Female,Malaysia,KELANTAN,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,Y,10.00,10.00,?,?,?,?,7,BEFORE & AFTER CAMP,3,Premium
+348,34,72,Male,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,Y,35.00,35.00,0.041154,0.075051,0.0,0.0,Y,Y,5.00,35.00,?,?,35.000000,35.000000,1,DURING & AFTER CAMP,2,Normal
+349,30,36,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,7e-06,2.8e-05,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+350,25,54,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.000837,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,1,Saver
+351,39,31,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.000205,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+352,28,43,Female,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,Y,15.00,15.00,0.0,0.0,0.0,0.0,N,Y,?,20.00,?,?,?,15.000000,1,BEFORE & AFTER CAMP,3,Premium
+353,53,25,Female,Malaysia,PERAK,Active,Active,N,?,N,Y,?,1.00,0.919395,0.345124,0.0,0.05,N,Y,?,5.00,?,?,?,1.000000,7,BEFORE & AFTER CAMP,1,Saver
+354,71,60,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,0.99,?,0.990000,?,39,NO ACTIVITY SINCE SEP,3,Premium
+355,49,22,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,2.00,2.00,2.000000,2.000000,8,BEFORE & AFTER CAMP,2,Normal
+356,86,27,Female,Malaysia,KELANTAN,Active,Active,Y,10/6/2022,Y,Y,15.00,3.00,0.547274,18.618455,1.4833,3.0667,N,Y,?,10.00,?,?,3.600000,18.350000,1,DURING & AFTER CAMP,3,Premium
+357,24,30,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,4e-06,0.0,0.5333,Y,N,10.00,?,?,?,12.500000,0.200000,8,DURING & AFTER CAMP,2,Normal
+358,18,64,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,2,Normal
+359,18,25,Female,Malaysia,TERENGGANU,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,2,Normal
+360,21,36,Female,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.00898,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+361,20,29,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.00058,0.0,0.0,0.0,N,N,?,?,?,?,?,?,19,DURING CAMP THEN REMAIN,3,Premium
+362,94,74,Male,Malaysia,PERAK,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,2,Normal
+363,30,31,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.002583,0.0,0.0,Y,N,10.00,?,?,?,?,?,10,DURING & AFTER CAMP,3,Premium
+364,52,26,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,7.3e-05,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,2,Normal
+365,23,38,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,2,Normal
+366,220,80,Male,Malaysia,PENANG,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,2.0167,0.75,N,N,?,?,?,?,1.280000,0.400000,7,DURING & AFTER CAMP,1,Saver
+367,59,29,Female,Malaysia,PERLIS,Active,Active,Y,10/5/2022,Y,N,15.00,?,2.491145,1.109637,0.0,0.4,N,N,?,?,0.15,?,12.000000,0.300000,0,DURING & AFTER CAMP,1,Saver
+368,32,65,Female,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.655918,6.004884,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,2,Normal
+369,40,72,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,6.1e-05,1.8e-05,0.0,0.0,Y,N,5.00,?,?,?,?,?,5,DURING & AFTER CAMP,1,Saver
+370,36,46,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.763783,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,1,Saver
+371,244,39,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,12.8,N,Y,?,5.00,?,?,?,7.280000,0,DURING & AFTER CAMP,3,Premium
+372,19,32,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,12.710772,0.0,0.0333,N,N,?,?,?,?,?,0.200000,0,BEFORE & AFTER CAMP,2,Normal
+373,36,22,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+374,143,71,Male,Malaysia,MALACCA,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,18,DURING CAMP THEN REMAIN,1,Saver
+375,61,35,Male,Malaysia,SARAWAK,Active,Active,N,?,N,Y,?,29.99,0.705838,1.041934,0.0,0.0,N,Y,?,40.00,?,?,?,34.190000,0,BEFORE & AFTER CAMP,2,Normal
+376,66,28,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.017988,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,3,Premium
+377,32,27,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,4,BEFORE & AFTER CAMP,3,Premium
+378,32,24,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,N,Y,?,5.00,0.0,16.664005,0.0,0.8667,Y,Y,5.00,30.00,?,?,?,40.500000,0,DURING & AFTER CAMP,2,Normal
+379,193,48,Male,Malaysia,PENANG,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,0.0,9.25,N,N,?,?,?,?,38.000000,2.860000,1,DURING & AFTER CAMP,1,Saver
+380,147,29,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,1.000000,?,6,BEFORE & AFTER CAMP,2,Normal
+381,30,54,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,1,Saver
+382,37,32,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,3.6e-05,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,2,Normal
+383,179,44,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.226468,0.0,0.35,0.0,Y,N,3.01,?,?,?,0.240000,?,33,NO ACTIVITY SINCE SEP,1,Saver
+384,58,31,Male,Malaysia,N SEMBILAN,Active,Active,N,?,N,N,?,?,0.0,0.0,0.1,0.0,N,N,?,?,?,?,0.300000,?,36,NO ACTIVITY SINCE SEP,1,Saver
+385,29,34,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+386,165,29,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,29.98,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,121.980000,2.000000,1,BEFORE & AFTER CAMP,3,Premium
+387,24,44,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,34.99,?,2.115814,0.0,2.15,0.0,Y,N,55.00,?,34.49,?,20.000000,?,38,NO ACTIVITY SINCE SEP,1,Saver
+388,29,38,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,7.477062,0.0,1.9667,0.0,Y,N,20.00,?,?,?,1.000000,?,35,NO ACTIVITY SINCE SEP,1,Saver
+389,221,66,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,15,BEFORE & AFTER CAMP,3,Premium
+390,38,30,Female,Malaysia,N SEMBILAN,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,17,BEFORE & AFTER CAMP,3,Premium
+391,21,24,Male,Malaysia,TERENGGANU,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,2.373818,0.0,0.0,N,Y,?,10.00,?,?,?,0.800000,0,BEFORE & AFTER CAMP,1,Saver
+392,46,23,Female,Malaysia,SABAH,Active,Active,N,?,Y,N,3.00,?,0.027698,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,2,Normal
+393,33,68,Female,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.046062,0.0,0.0,0.0,N,N,?,?,?,?,?,?,8,BEFORE & AFTER CAMP,1,Saver
+394,27,30,Female,Malaysia,KELANTAN,Active,Active,Y,10/6/2022,Y,Y,35.00,35.00,13.884917,22.658208,5.2167,3.3,N,Y,?,40.00,?,?,35.000000,35.000000,1,BEFORE & AFTER CAMP,1,Saver
+395,21,23,Male,Malaysia,PERAK,Active,Active,N,?,Y,N,5.00,?,28.990184,0.0,104.7333,0.0,Y,N,85.00,?,2.00,?,56.000000,?,33,NO ACTIVITY SINCE SEP,3,Premium
+396,39,52,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,N,N,?,?,0.003363,0.0,0.0,0.0,Y,N,150.00,?,?,?,126.000000,?,21,DURING CAMP THEN REMAIN,2,Normal
+397,34,37,Male,Malaysia,TERENGGANU,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,3,Premium
+398,48,28,Female,Malaysia,PERAK,Active,Active,N,?,Y,N,4.00,?,1.911871,0.0,0.0,0.0,Y,N,10.00,?,?,?,11.000000,1.000000,36,NO ACTIVITY SINCE SEP,1,Saver
+399,30,26,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/24/2022,N,Y,?,14.99,0.0,48.151177,0.0,0.0,N,Y,?,10.00,?,?,?,21.990000,0,DURING & AFTER CAMP,2,Normal
+400,30,24,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,19,DURING CAMP THEN REMAIN,2,Normal
+401,72,72,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+402,33,23,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,N,N,?,?,0.0,4.999776,0.0,0.0,Y,N,5.00,?,?,?,?,3.200000,2,DURING & AFTER CAMP,3,Premium
+403,29,24,Female,Malaysia,N SEMBILAN,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,1,Saver
+404,21,29,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,Y,15.00,15.00,0.074098,5.430153,0.0,0.0167,N,Y,?,50.00,?,?,?,24.000000,6,DURING & AFTER CAMP,3,Premium
+405,162,31,Female,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,Y,4.00,3.00,1.763604,0.554943,0.0,0.0,Y,N,10.00,?,?,?,4.000000,3.000000,4,BEFORE & AFTER CAMP,2,Normal
+406,23,28,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.000843,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,1,Saver
+407,58,24,Female,Malaysia,SABAH,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,2,Normal
+408,16,49,Male,Malaysia,SELANGOR,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.334607,7.196462,0.0,0.0,Y,N,5.00,?,?,?,1.000000,?,1,BEFORE & AFTER CAMP,1,Saver
+409,22,36,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,1,Saver
+410,32,37,Female,Malaysia,MALACCA,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.391044,2.598776,0.0,0.0,N,N,?,?,?,?,?,?,15,DURING & AFTER CAMP,1,Saver
+411,49,33,Male,Malaysia,PAHANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.803643,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,0,BEFORE & AFTER CAMP,2,Normal
+412,43,73,Female,Malaysia,TERENGGANU,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,1,Saver
+413,27,25,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,3,Premium
+414,51,24,Male,Malaysia,TERENGGANU,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.104747,0.235079,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,3,Premium
+415,33,22,Male,Malaysia,MALACCA,Active,Active,Y,10/5/2022,Y,N,35.00,?,14.082002,0.0,2.5667,0.0,Y,N,30.00,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,2,Normal
+416,34,39,Male,Malaysia,KEDAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.022382,0.0,0.0,N,N,?,?,?,?,?,3.370000,2,DURING & AFTER CAMP,1,Saver
+417,152,41,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,Y,15.00,1.50,1e-06,1.444676,0.0667,0.35,N,Y,?,15.00,?,?,0.190000,9.720000,1,BEFORE & AFTER CAMP,2,Normal
+418,136,56,Male,Malaysia,PENANG,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,3,Premium
+419,19,26,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.00399,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,1,Saver
+420,16,27,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.000111,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,2,Normal
+421,55,67,Female,Malaysia,KLANG VALLEY,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,2,Normal
+422,59,45,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.05994,0.0,0.0,0.0,Y,Y,15.00,5.00,2.00,2.00,6.000000,2.000000,6,BEFORE & AFTER CAMP,3,Premium
+423,50,30,Female,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,Y,15.00,10.00,0.0,13.066008,0.0,4.3334,N,N,?,?,?,?,?,26.430000,0,BEFORE & AFTER CAMP,2,Normal
+424,17,32,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,6.970779,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,2,Normal
+425,131,73,Male,Malaysia,KELANTAN,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,12.3833,N,Y,?,10.00,?,?,?,4.050000,0,DURING & AFTER CAMP,1,Saver
+426,70,65,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,2,BEFORE & AFTER CAMP,1,Saver
+427,41,46,Unspecified,Malaysia,SABAH,Active,Active,N,?,Y,N,5.00,?,7.131092,0.0,34.0833,0.0,Y,N,60.00,?,7.50,?,41.010000,?,36,NO ACTIVITY SINCE SEP,1,Saver
+428,65,59,Male,Malaysia,KELANTAN,Active,Active,Y,10/6/2022,Y,Y,1.00,2.00,0.51653,0.621064,1.6333,0.0,N,N,?,?,?,?,2.600000,4.000000,4,DURING & AFTER CAMP,2,Normal
+429,51,74,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,4.000000,0,BEFORE & AFTER CAMP,2,Normal
+430,67,56,Male,Malaysia,KEDAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.000724,0.0,0.0,Y,Y,5.00,10.00,?,?,?,?,8,BEFORE & AFTER CAMP,3,Premium
+431,18,23,Male,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.000302,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,3,Premium
+432,141,73,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,3,Premium
+433,50,69,Female,Malaysia,JOHORE,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,0.7667,1.2333,Y,Y,15.00,10.00,?,?,0.390000,0.390000,5,BEFORE & AFTER CAMP,3,Premium
+434,20,46,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,33.945798,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,2,Normal
+435,18,34,Male,Malaysia,PENANG,Active,Active,N,?,N,Y,?,5.00,0.0,2.5e-05,0.0,0.5667,N,Y,?,5.00,?,?,?,5.200000,1,BEFORE & AFTER CAMP,3,Premium
+436,18,40,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.2e-05,8.5e-05,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,1,Saver
+437,36,52,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,5.587774,18.030855,0.0,3.3167,N,N,?,?,?,?,?,1.200000,0,DURING & AFTER CAMP,3,Premium
+438,110,65,Male,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.126461,0.048336,0.0,0.0,Y,Y,40.00,10.00,?,?,8.000000,8.000000,9,BEFORE & AFTER CAMP,3,Premium
+439,86,22,Male,Malaysia,KELANTAN,Active,Active,N,?,Y,Y,1.00,1.00,0.249037,0.264081,0.6833,31.3667,N,Y,?,10.00,?,?,4.260000,12.320000,4,DURING & AFTER CAMP,3,Premium
+440,38,22,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,3,Premium
+441,33,47,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,27.98,?,4.102394,12.778335,0.05,0.0,Y,N,30.00,?,?,?,28.480000,?,3,DURING & AFTER CAMP,2,Normal
+442,71,23,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,17,BEFORE & AFTER CAMP,1,Saver
+443,60,34,Male,Malaysia,SABAH,Active,Active,N,?,Y,N,3.00,?,25.482113,0.0,36.0667,0.0,Y,N,40.00,?,?,?,36.900000,?,38,NO ACTIVITY SINCE SEP,2,Normal
+444,41,43,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,3.865967,13.037678,0.0,0.6333,N,Y,?,5.00,?,?,?,1.990000,0,DURING & AFTER CAMP,3,Premium
+445,33,34,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,8,BEFORE & AFTER CAMP,1,Saver
+446,21,54,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.10033,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+447,133,65,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.539958,0.0,0.0,0.0,N,N,?,?,?,?,?,?,3,DURING & AFTER CAMP,3,Premium
+448,66,68,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,39,NO ACTIVITY SINCE SEP,3,Premium
+449,29,33,Male,Malaysia,TERENGGANU,Active,Active,N,?,N,N,?,?,0.014707,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+450,26,23,Female,Malaysia,MALACCA,Active,Active,Y,10/5/2022,N,N,?,?,12.637677,0.0,198.4167,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,2,Normal
+451,151,29,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0333,N,N,?,?,?,?,?,0.180000,0,BEFORE & AFTER CAMP,2,Normal
+452,24,35,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,2.64172,3.567989,0.0,0.0,N,Y,?,10.00,?,?,?,?,0,BEFORE & AFTER CAMP,2,Normal
+453,94,29,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.1333,0.0,Y,N,10.00,?,?,?,0.150000,?,21,DURING CAMP THEN REMAIN,3,Premium
+454,26,68,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.000682,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,18,DURING CAMP THEN REMAIN,1,Saver
+455,24,66,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,2,Normal
+456,69,25,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.072263,0.0,2.5,0.0,N,N,?,?,?,?,1.200000,?,37,NO ACTIVITY SINCE SEP,2,Normal
+457,26,25,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,1,Saver
+458,25,40,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.60622,4.338845,2.5333,10.9333,N,N,?,?,?,?,0.700000,3.000000,0,DURING & AFTER CAMP,3,Premium
+459,56,68,Female,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,Y,?,30.00,?,?,?,54.000000,1,BEFORE & AFTER CAMP,1,Saver
+460,22,47,Female,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,35.00,?,14.230697,0.0,791.5834,0.0,Y,N,40.00,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+461,83,27,Male,Malaysia,SARAWAK,Active,Active,N,?,N,Y,?,1.50,0.0,7.785053,0.7,23.2,N,N,?,?,?,?,1.200000,3.000000,0,DURING & AFTER CAMP,2,Normal
+462,88,36,Male,Malaysia,MALACCA,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,?,?,6.000000,?,37,NO ACTIVITY SINCE SEP,2,Normal
+463,33,28,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,10.37718,0.0,0.0,0.0,N,N,?,?,?,?,0.030000,?,39,NO ACTIVITY SINCE SEP,2,Normal
+464,21,23,Male,Malaysia,MALACCA,Active,Active,Y,10/5/2022,Y,N,15.00,?,2.928379,0.0,0.95,0.0,Y,N,5.00,?,?,?,4.200000,?,39,NO ACTIVITY SINCE SEP,3,Premium
+465,106,39,Female,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,3,BEFORE & AFTER CAMP,3,Premium
+466,45,27,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,Y,?,5.00,?,?,?,?,35,NO ACTIVITY SINCE SEP,3,Premium
+467,74,69,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.205737,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,2,Normal
+468,168,35,Male,Malaysia,PENANG,Active,Active,Y,10/6/2022,N,N,?,?,1.97128,0.0,171.7834,0.0,N,N,?,?,0.15,?,?,?,2,BEFORE & AFTER CAMP,2,Normal
+469,45,25,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,29.98,?,0.0,1e-06,0.0,0.0,N,N,?,?,?,?,?,?,12,DURING & AFTER CAMP,1,Saver
+470,41,46,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,21,DURING CAMP THEN REMAIN,1,Saver
+471,21,45,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,2.583013,0.0,0.85,0.0,N,N,?,?,?,?,0.200000,?,38,NO ACTIVITY SINCE SEP,1,Saver
+472,55,43,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,Y,?,29.99,0.0,0.000146,0.0,0.0,Y,Y,5.00,30.00,?,?,?,29.990000,0,BEFORE & AFTER CAMP,1,Saver
+473,36,36,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,Y,15.00,4.00,6.519501,7.605438,6.15,5.2667,N,Y,?,30.00,?,?,?,6.080000,0,BEFORE & AFTER CAMP,3,Premium
+474,27,35,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,Y,?,5.00,?,?,?,?,11,DURING & AFTER CAMP,3,Premium
+475,133,47,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,22,DURING CAMP THEN REMAIN,2,Normal
+476,48,40,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,19,DURING CAMP THEN REMAIN,1,Saver
+477,28,26,Male,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.044713,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,DURING & AFTER CAMP,1,Saver
+478,31,68,Male,Malaysia,KEDAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,1.000000,?,34,NO ACTIVITY SINCE SEP,2,Normal
+479,196,34,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,Y,?,10.00,?,?,?,?,14,BEFORE & AFTER CAMP,1,Saver
+480,20,69,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,5.00,?,7.717679,0.0,1.75,0.0,Y,N,40.00,?,?,?,21.700000,?,34,NO ACTIVITY SINCE SEP,1,Saver
+481,17,21,Female,Malaysia,JOHORE,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,2,Normal
+482,36,33,Male,Malaysia,SABAH,Active,Active,N,?,Y,N,4.00,?,13.768033,0.0,1.4333,0.0,Y,N,20.00,?,?,?,15.200000,?,20,DURING CAMP THEN REMAIN,3,Premium
+483,87,27,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.219085,4.641643,0.0,5.5167,N,N,?,?,?,?,4.000000,2.730000,1,DURING & AFTER CAMP,3,Premium
+484,17,34,Male,Malaysia,KEDAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,10,BEFORE & AFTER CAMP,2,Normal
+485,22,27,Male,Malaysia,KELANTAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,5.272745,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,3,Premium
+486,39,38,Female,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.1,0.0,N,N,?,?,?,?,0.130000,?,37,NO ACTIVITY SINCE SEP,2,Normal
+487,19,72,Male,Malaysia,PAHANG,Active,Active,Y,10/5/2022,Y,Y,15.00,14.99,8.943566,0.0,12.2667,0.0,Y,Y,45.00,15.00,29.23,?,37.690000,14.990000,34,NO ACTIVITY SINCE SEP,1,Saver
+488,99,31,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.029576,0.0,0.0,0.0,N,N,?,?,?,?,?,?,21,DURING CAMP THEN REMAIN,2,Normal
+489,123,66,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,20.00,?,2.209879,0.0,3.0666,0.0,Y,N,15.00,?,?,?,21.520000,2.000000,16,BEFORE & AFTER CAMP,3,Premium
+490,53,54,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.8666,0.4,Y,Y,10.00,5.00,2.50,2.00,3.200000,4.100000,2,BEFORE & AFTER CAMP,3,Premium
+491,18,37,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,29.99,?,12.833144,0.0,0.1167,0.0,Y,N,30.00,?,?,?,0.300000,?,7,BEFORE & AFTER CAMP,2,Normal
+492,21,28,Female,Malaysia,KELANTAN,Active,Active,Y,10/5/2022,Y,Y,4.50,3.00,17.850552,14.540426,0.1667,1.1334,Y,Y,30.00,15.00,?,?,16.300000,15.300000,2,DURING & AFTER CAMP,2,Normal
+493,199,82,Male,Malaysia,PAHANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,16.2,8.3167,N,N,?,?,?,?,4.680000,2.730000,5,DURING & AFTER CAMP,3,Premium
+494,30,48,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.000689,0.000132,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,3,Premium
+495,16,61,Female,Malaysia,PERLIS,Active,Active,N,?,Y,N,3.00,?,8.170411,0.0,3.5167,0.0,Y,N,20.00,?,?,?,11.000000,?,36,NO ACTIVITY SINCE SEP,1,Saver
+496,51,49,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,DURING & AFTER CAMP,3,Premium
+497,21,73,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.117688,0.0,0.0667,0.0,N,N,?,?,?,?,0.600000,?,39,NO ACTIVITY SINCE SEP,3,Premium
+498,18,26,Female,Malaysia,KEDAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.264999,0.080407,0.0,0.0,N,Y,?,5.00,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+499,149,26,Female,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,1,Saver
+500,55,22,Unspecified,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.079898,0.0,0.0,0.0,N,N,?,?,0.15,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+501,15,24,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,1.727152,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+502,82,53,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,11.687904,0.0,4.95,0.0,Y,N,10.00,?,?,?,3.720000,?,38,NO ACTIVITY SINCE SEP,2,Normal
+503,51,30,Female,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.0,3e-06,0.0,0.0,N,Y,?,5.00,?,?,?,1.000000,2,BEFORE & AFTER CAMP,1,Saver
+504,120,60,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.6333,Y,N,50.00,?,?,?,38.000000,0.640000,4,BEFORE & AFTER CAMP,1,Saver
+505,22,45,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.5e-05,0.117599,0.0,0.0,N,Y,?,5.00,?,?,?,?,2,BEFORE & AFTER CAMP,2,Normal
+506,35,25,Male,Malaysia,MALACCA,Active,Active,Y,10/6/2022,Y,N,15.00,?,14.266109,0.0,0.2334,0.0,Y,N,10.00,?,?,?,9.820000,?,39,NO ACTIVITY SINCE SEP,3,Premium
+507,74,26,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,2.8e-05,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,2,Normal
+508,56,26,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,5,BEFORE & AFTER CAMP,3,Premium
+509,27,33,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,20.00,?,3.847289,0.0,5.5,0.0,Y,N,30.00,?,?,?,22.900000,?,36,NO ACTIVITY SINCE SEP,3,Premium
+510,84,73,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,9.6834,Y,Y,40.00,25.00,?,?,6.000000,35.880000,0,DURING & AFTER CAMP,2,Normal
+511,20,84,Male,Malaysia,PERAK,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,1,Saver
+512,94,30,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,Y,3.00,3.00,0.171286,1.943309,0.0,1.3333,N,N,?,?,?,?,11.000000,13.640000,1,DURING & AFTER CAMP,3,Premium
+513,19,60,Unspecified,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,Y,15.00,15.00,5.175035,2.937586,0.0,0.0,N,Y,?,10.00,?,?,?,15.000000,3,BEFORE & AFTER CAMP,3,Premium
+514,29,45,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,1e-06,0.0,1.1333,0.0,Y,N,10.00,?,?,?,0.600000,?,37,NO ACTIVITY SINCE SEP,2,Normal
+515,102,28,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.2e-05,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+516,30,23,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,9.040138,0.0,0.0,0.0,Y,N,5.00,?,?,?,4.800000,?,4,BEFORE & AFTER CAMP,2,Normal
+517,49,28,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,Y,15.00,1.50,8.122925,35.383996,0.0,1.75,Y,Y,5.00,18.00,?,?,9.000000,15.980000,0,DURING & AFTER CAMP,1,Saver
+518,53,39,Male,Malaysia,MALACCA,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,4.000000,?,38,NO ACTIVITY SINCE SEP,3,Premium
+519,24,43,Female,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,1e-05,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,1,Saver
+520,199,50,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,1.437354,1.2e-05,0.0,0.5167,N,N,?,?,?,?,?,0.480000,0,BEFORE & AFTER CAMP,1,Saver
+521,20,41,Male,Malaysia,PAHANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.249865,3.746293,0.0,13.3333,N,Y,?,15.00,?,?,?,4.600000,0,BEFORE & AFTER CAMP,1,Saver
+522,89,29,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,8,DURING & AFTER CAMP,3,Premium
+523,196,71,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,23,BEFORE CAMP THEN REMAIN,1,Saver
+524,20,54,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,4,BEFORE & AFTER CAMP,1,Saver
+525,90,25,Female,Malaysia,SABAH,Active,Active,N,?,N,Y,?,1.00,0.0,0.002659,0.0,0.0,N,Y,?,5.00,?,?,?,1.800000,0,DURING & AFTER CAMP,2,Normal
+526,27,76,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.032062,0.0,13.15,0.0,Y,N,20.00,?,?,?,4.800000,?,38,NO ACTIVITY SINCE SEP,2,Normal
+527,18,36,Female,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,2,Normal
+528,133,71,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,3,Premium
+529,72,50,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,18,DURING CAMP THEN REMAIN,2,Normal
+530,21,30,Female,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,Y,15.00,8.00,3.496632,15.304061,0.0,0.0,Y,Y,10.00,20.00,?,?,12.000000,15.000000,3,BEFORE & AFTER CAMP,2,Normal
+531,155,64,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,27.98,?,0.498714,0.405105,0.3833,0.0,Y,N,30.00,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+532,210,34,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,2.000000,15,BEFORE & AFTER CAMP,2,Normal
+533,42,42,Male,Malaysia,TERENGGANU,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,BEFORE & AFTER CAMP,2,Normal
+534,53,22,Female,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,11.90,?,11.900000,?,39,NO ACTIVITY SINCE SEP,2,Normal
+535,156,83,Female,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.7333,N,Y,?,5.00,?,?,?,0.260000,2,DURING & AFTER CAMP,1,Saver
+536,18,26,Male,Malaysia,MALACCA,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,2.00,2.00,2.000000,2.000000,4,BEFORE & AFTER CAMP,1,Saver
+537,24,41,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,5.00,?,8.12499,0.0,0.0,0.0,Y,N,85.00,?,64.40,?,32.810000,?,34,NO ACTIVITY SINCE SEP,3,Premium
+538,92,32,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,19,DURING CAMP THEN REMAIN,1,Saver
+539,20,57,Male,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.015877,0.047429,0.0,0.0,Y,Y,5.00,5.00,?,?,?,?,9,DURING & AFTER CAMP,1,Saver
+540,159,66,Female,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.0,4.8e-05,0.0,0.0,N,N,?,?,?,?,?,?,2,DURING & AFTER CAMP,2,Normal
+541,52,31,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,6,DURING & AFTER CAMP,3,Premium
+542,18,51,Unspecified,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.555696,0.0,1.8,0.0,N,N,?,?,0.15,?,1.200000,?,7,DURING & AFTER CAMP,1,Saver
+543,27,24,Male,Malaysia,KELANTAN,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,3.6,N,Y,?,5.00,?,?,?,1.600000,5,BEFORE & AFTER CAMP,3,Premium
+544,125,40,Female,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.524797,0.0,32.9167,0.0,Y,N,40.00,?,?,?,25.100000,?,37,NO ACTIVITY SINCE SEP,2,Normal
+545,61,24,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,10.914535,0.01361,4.05,0.0,Y,N,5.00,?,?,?,1.700000,?,0,DURING & AFTER CAMP,2,Normal
+546,50,67,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.18175,0.198562,0.0,0.0,N,N,?,?,?,?,?,?,4,BEFORE & AFTER CAMP,2,Normal
+547,53,28,Male,Malaysia,KLANG VALLEY,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,3,Premium
+548,46,29,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,Y,15.00,1.50,10.131781,0.534276,9.75,0.0,Y,N,15.00,?,?,?,5.100000,3.000000,13,BEFORE & AFTER CAMP,2,Normal
+549,238,87,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,Y,?,10.00,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+550,21,23,Female,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,1.5333,0.0,N,N,?,?,?,?,0.600000,?,33,NO ACTIVITY SINCE SEP,2,Normal
+551,65,23,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.483631,8.3e-05,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+552,12,85,Male,Malaysia,MELAKA,Active,Active,Y,10/6/2022,N,N,?,?,0.001009,0.057795,6.5667,0.0,N,N,?,?,?,?,1.400000,?,11,BEFORE & AFTER CAMP,2,Normal
+553,22,27,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,9.7e-05,0.000129,0.8333,0.2167,N,N,?,?,?,?,1.200000,0.200000,0,DURING & AFTER CAMP,1,Saver
+554,49,31,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,30.710802,0.0,0.6167,0.0,Y,N,15.00,?,?,?,29.300000,?,37,NO ACTIVITY SINCE SEP,1,Saver
+555,23,27,Male,Malaysia,N SEMBILAN,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,36,NO ACTIVITY SINCE SEP,2,Normal
+556,18,25,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.031164,0.0,0.0,0.0,N,N,?,?,?,?,?,?,19,DURING CAMP THEN REMAIN,3,Premium
+557,16,59,Female,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,3.893433,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,3,Premium
+558,237,73,Male,Malaysia,PENANG,Active,Close,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,16,DURING & AFTER CAMP,2,Normal
+559,16,62,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.45,0.0,Y,Y,10.00,5.00,?,?,7.240000,4.160000,4,BEFORE & AFTER CAMP,2,Normal
+560,28,60,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,Y,5.00,5.00,?,?,?,?,2,BEFORE & AFTER CAMP,1,Saver
+561,43,65,Male,Malaysia,KEDAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,1e-06,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+562,21,22,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.022842,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+563,19,29,Male,Malaysia,MALACCA,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,DURING & AFTER CAMP,3,Premium
+564,54,23,Female,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.000372,0.0,0.0,0.0,Y,N,15.00,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,3,Premium
+565,22,28,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,Y,35.00,30.00,3.886271,12.986293,255.35,80.1833,Y,N,30.00,?,?,?,35.000000,30.000000,1,DURING & AFTER CAMP,1,Saver
+566,18,25,Male,Malaysia,KELANTAN,Active,Active,N,?,N,N,?,?,10.764048,0.0,1.45,0.0,Y,N,20.00,?,?,?,12.000000,?,36,NO ACTIVITY SINCE SEP,2,Normal
+567,78,74,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,14,BEFORE & AFTER CAMP,3,Premium
+568,121,67,Male,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,1,Saver
+569,19,26,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,8.00,?,16.397167,0.018296,0.0,0.0,Y,N,25.00,?,8.10,?,12.600000,?,0,DURING & AFTER CAMP,1,Saver
+570,95,33,Male,Malaysia,TERENGGANU,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+571,179,67,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,21,DURING CAMP THEN REMAIN,3,Premium
+572,41,70,Female,Malaysia,KLANG VALLEY,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+573,104,27,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,Y,15.00,35.00,0.0,21.354527,0.0,0.8833,N,Y,?,10.00,?,?,?,35.000000,1,DURING & AFTER CAMP,2,Normal
+574,37,26,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,12.933112,9.684161,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,1,Saver
+575,20,31,Male,Malaysia,KLANG VALLEY,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,3,Premium
+576,16,25,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.000369,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,2,Normal
+577,152,28,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,1,Saver
+578,30,41,Female,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,29.99,?,0.0,0.011605,0.0,0.0,Y,N,30.00,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+579,15,40,Male,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,N,35.00,?,2.385965,0.0,14.5833,0.0,Y,N,55.00,?,?,?,40.210000,?,37,NO ACTIVITY SINCE SEP,1,Saver
+580,202,64,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.370765,0.022284,1.65,0.95,N,N,?,?,?,?,0.520000,0.390000,13,BEFORE & AFTER CAMP,3,Premium
+581,149,67,Male,Malaysia,PERAK,Active,Active,Y,10/5/2022,N,N,?,?,0.0,0.0,8.8333,17.3667,N,N,?,?,?,?,2.760000,6.400000,0,DURING & AFTER CAMP,1,Saver
+582,27,41,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,3,Premium
+583,31,46,Male,Malaysia,N SEMBILAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,2.31485,2.787296,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,2,Normal
+584,70,30,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,1,Saver
+585,111,28,Male,Malaysia,PERAK,Active,Active,Y,10/6/2022,Y,N,4.00,?,1.471025,0.0,3.3833,0.0,N,N,?,?,?,?,18.280000,2.000000,7,BEFORE & AFTER CAMP,1,Saver
+586,25,28,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,3.712526,0.0,3.75,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+587,77,55,Female,Malaysia,PERAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+588,19,29,Female,Malaysia,SABAH,Active,Active,N,?,Y,N,7.00,?,0.889042,0.0,0.0,0.0,Y,N,5.00,?,?,?,7.000000,?,38,NO ACTIVITY SINCE SEP,1,Saver
+589,30,27,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+590,37,41,Male,Malaysia,PAHANG,Active,Active,N,?,N,N,?,?,2.180151,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,3,Premium
+591,179,72,Male,Malaysia,SEREMBAN/MELAKA,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,18,DURING CAMP THEN REMAIN,1,Saver
+592,18,32,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,1.7e-05,0.005032,0.0,0.0,Y,Y,5.00,5.00,?,?,?,?,6,DURING & AFTER CAMP,3,Premium
+593,100,53,Male,Malaysia,KEDAH,Active,Active,Y,10/6/2022,Y,N,30.00,?,0.0,0.0,0.0,0.0,Y,Y,10.00,10.00,?,?,?,?,1,DURING & AFTER CAMP,3,Premium
+594,72,71,Female,Malaysia,PENANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,7.7e-05,0.0,0.0,0.0,N,N,?,?,?,?,?,?,39,NO ACTIVITY SINCE SEP,1,Saver
+595,125,23,Male,Malaysia,N SEMBILAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,14,BEFORE & AFTER CAMP,1,Saver
+596,94,56,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,2.772888,0.0,7.05,0.0,Y,N,30.00,?,?,?,17.470000,8.000000,0,BEFORE & AFTER CAMP,3,Premium
+597,24,67,Male,Malaysia,N SEMBILAN,Active,Active,Y,10/6/2022,Y,Y,15.00,5.00,4.877474,6.975631,0.0,0.0,Y,Y,10.00,5.00,2.00,0.50,6.000000,5.600000,0,BEFORE & AFTER CAMP,2,Normal
+598,77,31,Female,Malaysia,N SEMBILAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.001232,0.000816,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,3,Premium
+599,38,73,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.005176,0.0,9.0333,N,N,?,?,?,?,?,2.730000,0,DURING & AFTER CAMP,2,Normal
+600,148,71,Female,Malaysia,PAHANG,Active,Active,Y,10/5/2022,Y,Y,20.00,35.00,1.118087,0.838755,1.0333,64.4,Y,Y,35.00,40.00,?,?,32.540000,35.000000,0,DURING & AFTER CAMP,3,Premium
+601,19,58,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.3167,0.0,N,N,?,?,?,?,0.200000,?,39,NO ACTIVITY SINCE SEP,3,Premium
+602,26,41,Female,Malaysia,KLANG VALLEY,Active,Close,N,?,Y,N,50.00,?,16.758427,0.0,142.45,0.0,Y,N,15.00,?,?,?,55.150000,?,34,NO ACTIVITY SINCE SEP,1,Saver
+603,133,78,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,Y,Y,40.00,20.00,?,?,?,?,5,BEFORE & AFTER CAMP,1,Saver
+604,25,42,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,27.98,?,0.611569,0.0,0.0,0.0,Y,N,10.00,?,?,?,27.980000,?,37,NO ACTIVITY SINCE SEP,3,Premium
+605,55,29,Unspecified,Malaysia,PENANG,Active,Active,N,?,Y,N,12.00,?,2.377871,0.0,0.0,0.0,Y,N,20.00,?,?,?,16.000000,?,38,NO ACTIVITY SINCE SEP,2,Normal
+606,194,80,Female,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,3.00,?,3.000000,0,DURING & AFTER CAMP,2,Normal
+607,162,33,Female,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,3.583227,0.743877,0.35,0.3,N,Y,?,5.00,?,?,8.130000,0.130000,0,DURING & AFTER CAMP,2,Normal
+608,57,26,Male,Malaysia,KEDAH,Active,Active,Y,10/5/2022,Y,N,27.99,?,1.626461,0.0,0.0,0.0,N,N,?,?,?,?,27.990000,?,37,NO ACTIVITY SINCE SEP,3,Premium
+609,57,51,Male,Malaysia,KEDAH,Active,Active,N,?,Y,N,2.00,?,13.08248,0.0,0.0,0.0,Y,N,20.00,?,?,?,19.800000,?,36,NO ACTIVITY SINCE SEP,2,Normal
+610,175,42,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.001238,0.001427,0.0,0.0,N,N,?,?,?,?,?,38.000000,8,DURING & AFTER CAMP,2,Normal
+611,49,24,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,2.347097,0.0,0.0,0.0,Y,N,30.00,?,?,?,4.000000,?,23,BEFORE CAMP THEN REMAIN,3,Premium
+612,27,32,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,4.00,?,11.776008,0.0,23.3,0.0,Y,N,50.00,?,?,?,22.600000,?,38,NO ACTIVITY SINCE SEP,3,Premium
+613,34,26,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.005697,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,3,Premium
+614,20,24,Female,Malaysia,SABAH,Active,Active,N,?,Y,Y,2.00,4.00,1.412309,48.703441,0.0,0.4333,Y,Y,10.00,23.01,?,?,5.800000,18.900000,0,DURING & AFTER CAMP,1,Saver
+615,26,24,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.055874,0.068632,0.0,0.0,N,N,?,?,?,?,?,?,10,DURING & AFTER CAMP,1,Saver
+616,100,32,Male,Malaysia,SABAH,Active,Active,N,?,Y,N,2.00,?,6.908966,0.0,0.0,0.0,N,N,?,?,?,?,3.000000,?,5,BEFORE & AFTER CAMP,1,Saver
+617,20,38,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,6.751309,3.658831,0.0,0.4834,Y,N,5.00,?,?,?,?,1.200000,0,DURING & AFTER CAMP,2,Normal
+618,32,23,Female,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,1.200000,0,DURING & AFTER CAMP,2,Normal
+619,171,64,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,2,Normal
+620,172,60,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,2,Normal
+621,62,51,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.174045,0.029212,0.0,0.0,N,Y,?,10.00,?,?,?,?,0,BEFORE & AFTER CAMP,3,Premium
+622,20,76,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.013651,0.0,1.4,0.0,Y,N,5.00,?,?,?,0.900000,?,19,DURING CAMP THEN REMAIN,1,Saver
+623,54,52,Female,Malaysia,KELANTAN,Active,Active,Y,10/5/2022,Y,Y,15.00,1.50,8.218014,0.676037,0.0,0.0,Y,Y,5.00,5.00,?,?,4.500000,2.300000,0,BEFORE & AFTER CAMP,1,Saver
+624,82,25,Female,Malaysia,TERENGGANU,Active,Active,N,?,Y,N,5.00,?,0.67198,0.0,2.9,0.0,Y,N,20.00,?,?,?,28.120000,?,38,NO ACTIVITY SINCE SEP,2,Normal
+625,41,23,Male,Malaysia,KELANTAN,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,5.000000,2,BEFORE & AFTER CAMP,3,Premium
+626,24,26,Male,Malaysia,KEDAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,0.800000,?,35,NO ACTIVITY SINCE SEP,1,Saver
+627,51,25,Male,Malaysia,KEDAH,Active,Active,N,?,Y,Y,4.00,3.00,0.526668,1.493287,0.0,0.0,Y,Y,10.00,30.00,?,?,4.000000,7.000000,5,BEFORE & AFTER CAMP,3,Premium
+628,20,27,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.014274,0.116702,0.0,0.0,Y,Y,5.00,5.00,7.80,?,?,?,2,DURING & AFTER CAMP,1,Saver
+629,20,58,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,1.101372,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,3,Premium
+630,21,27,Female,Malaysia,KEDAH,Active,Active,Y,10/5/2022,Y,N,14.98,?,11.506398,0.0,22.6333,0.0,N,N,?,?,?,?,22.780000,?,37,NO ACTIVITY SINCE SEP,2,Normal
+631,80,31,Female,Malaysia,PERLIS,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.008266,0.0,0.0,0.0,N,N,?,?,?,?,1.000000,?,33,NO ACTIVITY SINCE SEP,2,Normal
+632,19,22,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.033162,0.0,0.0,0.0,N,N,?,?,?,?,0.200000,?,33,NO ACTIVITY SINCE SEP,1,Saver
+633,44,35,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.85,N,N,?,?,?,?,?,0.300000,15,BEFORE & AFTER CAMP,1,Saver
+634,138,35,Female,Malaysia,PENANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,1.8e-05,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,3,Premium
+635,19,38,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,Y,15.00,3.00,0.282738,9.475087,0.0,0.0,N,Y,?,15.00,?,2.10,?,14.900000,0,DURING & AFTER CAMP,3,Premium
+636,41,24,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.108968,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,1,Saver
+637,61,28,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,6.000000,?,37,NO ACTIVITY SINCE SEP,2,Normal
+638,91,31,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,Y,15.00,10.00,2.51657,1.106333,1.15,0.0,Y,Y,10.00,10.00,?,?,10.450000,10.000000,8,BEFORE & AFTER CAMP,1,Saver
+639,26,27,Male,Malaysia,MALACCA,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,1.3167,0.0,N,N,?,?,?,?,0.600000,?,34,NO ACTIVITY SINCE SEP,2,Normal
+640,46,72,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,1,Saver
+641,21,67,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,30.00,?,?,?,?,?,1,DURING & AFTER CAMP,1,Saver
+642,213,40,Female,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.09691,0.070135,1.5667,0.0,Y,N,5.00,?,?,?,4.960000,?,6,BEFORE & AFTER CAMP,3,Premium
+643,22,35,Male,Malaysia,TERENGGANU,Active,Active,Y,10/5/2022,Y,N,34.99,?,0.001982,0.000124,0.0,0.0,Y,N,10.00,?,?,?,34.990000,?,0,BEFORE & AFTER CAMP,2,Normal
+644,39,28,Male,Malaysia,JOHORE,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,2,Normal
+645,91,62,Male,Malaysia,KELANTAN,Active,Active,N,?,N,N,?,?,0.0,0.0,43.8333,0.0,Y,N,30.00,?,?,?,23.630000,?,39,NO ACTIVITY SINCE SEP,1,Saver
+646,33,68,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.209891,0.0,0.2833,0.0,Y,N,40.00,?,?,?,30.000000,?,34,NO ACTIVITY SINCE SEP,1,Saver
+647,25,57,Female,Malaysia,N SEMBILAN,Active,Active,N,?,N,N,?,?,0.0,0.0,1.5833,18.85,N,Y,?,20.00,?,1.00,1.700000,16.100000,0,BEFORE & AFTER CAMP,2,Normal
+648,20,22,Female,Malaysia,PAHANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.033632,0.048609,0.0,0.0,N,N,?,?,?,?,?,?,7,BEFORE & AFTER CAMP,3,Premium
+649,56,31,Male,Malaysia,PERAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,DURING & AFTER CAMP,1,Saver
+650,224,70,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.6,14.6,N,Y,?,10.00,?,?,0.480000,8.880000,0,DURING & AFTER CAMP,1,Saver
+651,159,33,Female,Malaysia,KLANG VALLEY,Active,Active,Y,11/6/2022,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,1,Saver
+652,28,29,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,5.687999,0.0,59.4167,0.0,Y,N,30.00,?,?,?,28.000000,?,11,BEFORE & AFTER CAMP,1,Saver
+653,36,25,Unspecified,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,2.053578,0.0,0.0,0.0,N,N,?,?,?,?,?,?,20,DURING CAMP THEN REMAIN,2,Normal
+654,268,48,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,2.3e-05,0.0,0.0,N,Y,?,5.00,?,?,?,?,2,DURING & AFTER CAMP,3,Premium
+655,47,54,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,3,BEFORE & AFTER CAMP,1,Saver
+656,28,34,Female,Malaysia,PAHANG,Active,Active,N,?,N,N,?,?,0.0,0.06365,0.0,0.0333,N,N,?,?,?,?,?,0.200000,2,DURING & AFTER CAMP,3,Premium
+657,45,22,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,8.677315,0.0,0.0333,0.0,N,N,?,?,?,?,0.200000,?,34,NO ACTIVITY SINCE SEP,2,Normal
+658,43,28,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,5,DURING & AFTER CAMP,3,Premium
+659,28,36,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,1e-06,0.0,11.1,0.0,Y,N,10.00,?,?,?,5.010000,?,33,NO ACTIVITY SINCE SEP,1,Saver
+660,33,27,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.040589,0.0,0.0,Y,N,50.00,?,?,?,?,?,2,DURING & AFTER CAMP,1,Saver
+661,55,70,Male,Malaysia,SABAH,Active,Active,Y,10/8/2022,N,N,?,?,0.007137,0.277893,0.0,0.0,Y,N,30.00,?,2.00,?,2.000000,1.000000,12,DURING & AFTER CAMP,3,Premium
+662,71,48,Male,Malaysia,SABAH,Active,Active,N,?,N,Y,?,2.00,4.923381,0.034025,0.0,17.9,N,N,?,?,?,?,?,3.000000,11,BEFORE & AFTER CAMP,1,Saver
+663,18,42,Male,Malaysia,PERAK,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,1,Saver
+664,22,28,Male,Malaysia,KEDAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,Y,N,20.00,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,2,Normal
+665,25,27,Male,Malaysia,SABAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,9.077703,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,3,Premium
+666,41,43,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,5.339219,1.558451,0.0,9.65,Y,Y,5.00,15.00,?,?,7.000000,4.400000,1,DURING & AFTER CAMP,3,Premium
+667,99,47,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,35,NO ACTIVITY SINCE SEP,3,Premium
+668,18,30,Male,Malaysia,SARAWAK,Active,Active,N,?,Y,N,5.00,?,11.468146,0.0,28.1834,0.0,N,N,?,?,?,?,29.420000,?,34,NO ACTIVITY SINCE SEP,2,Normal
+669,92,27,Male,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,1,Saver
+670,46,36,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,Y,14.99,27.99,1.082714,0.561187,3.7667,8.8333,Y,Y,65.00,50.00,?,?,68.620000,27.990000,0,BEFORE & AFTER CAMP,1,Saver
+671,79,26,Male,Malaysia,KEDAH,Active,Active,Y,10/5/2022,Y,N,15.00,?,4.620531,0.590268,0.0,0.0,Y,N,5.00,?,?,?,2.200000,?,7,BEFORE & AFTER CAMP,1,Saver
+672,188,71,Male,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,5.4,0.0,Y,N,5.00,?,?,?,3.060000,?,1,BEFORE & AFTER CAMP,3,Premium
+673,76,32,Male,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,2.88919,0.0,0.0,0.0,N,N,?,?,?,?,2.000000,?,22,DURING CAMP THEN REMAIN,3,Premium
+674,21,30,Male,Malaysia,PENANG,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,19,DURING CAMP THEN REMAIN,3,Premium
+675,42,25,Female,Malaysia,SARAWAK,Active,Active,N,?,Y,N,4.00,?,1.929528,0.0,0.0,0.0,Y,N,10.00,?,?,?,9.800000,?,34,NO ACTIVITY SINCE SEP,2,Normal
+676,181,70,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,27.99,?,0.000209,0.0,0.0,0.0,N,N,?,?,?,?,6.000000,4.000000,15,BEFORE & AFTER CAMP,3,Premium
+677,78,69,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,3,Premium
+678,69,41,Male,Malaysia,TERENGGANU,Active,Active,N,?,Y,N,3.00,?,0.0,0.0,0.0,0.0,Y,N,10.00,?,1.85,?,1.700000,?,38,NO ACTIVITY SINCE SEP,1,Saver
+679,36,45,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,Y,15.00,1.00,8.087258,0.0,0.0,0.0,Y,Y,20.00,10.00,?,?,12.800000,7.000000,37,NO ACTIVITY SINCE SEP,1,Saver
+680,20,24,Female,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,17.725539,0.0,0.0,0.0,N,N,?,?,?,?,?,?,34,NO ACTIVITY SINCE SEP,1,Saver
+681,36,26,Male,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.147231,0.0,119.5333,0.0,N,N,?,?,?,?,1.200000,?,37,NO ACTIVITY SINCE SEP,2,Normal
+682,167,26,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,27.99,?,0.0,9.765672,0.0,37.9666,Y,N,30.00,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+683,38,61,Female,Malaysia,JOHORE,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,DURING & AFTER CAMP,1,Saver
+684,39,35,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,34.99,?,20.795508,0.0,0.0,0.0,Y,N,35.00,?,0.15,?,36.290000,?,5,BEFORE & AFTER CAMP,3,Premium
+685,27,29,Male,Malaysia,PERAK,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,3,Premium
+686,19,64,Female,Malaysia,KLANG VALLEY,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,3,Premium
+687,36,31,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.414869,2.2e-05,0.0,0.0,N,N,?,?,?,?,?,?,13,BEFORE & AFTER CAMP,2,Normal
+688,20,23,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+689,52,30,Female,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,2.000000,?,19,DURING CAMP THEN REMAIN,3,Premium
+690,30,43,Male,Malaysia,JOHORE,Active,Active,Y,10/5/2022,Y,N,15.00,?,5.255989,0.0,5.2167,0.0,Y,N,20.00,?,2.00,?,9.410000,?,34,NO ACTIVITY SINCE SEP,1,Saver
+691,35,26,Male,Malaysia,KELANTAN,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,37,NO ACTIVITY SINCE SEP,3,Premium
+692,58,27,Male,Malaysia,KELANTAN,Active,Active,Y,10/6/2022,Y,N,15.00,?,15.060489,0.0,0.0,0.0,Y,N,15.00,?,?,?,14.990000,?,34,NO ACTIVITY SINCE SEP,2,Normal
+693,93,27,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,24,BEFORE CAMP THEN REMAIN,2,Normal
+694,147,33,Female,Malaysia,PENANG,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,1.00,1.00,1.000000,2.000000,1,BEFORE & AFTER CAMP,1,Saver
+695,37,27,Male,Malaysia,SARAWAK,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,11,BEFORE & AFTER CAMP,3,Premium
+696,52,24,Female,Malaysia,KEDAH,Active,Active,Y,10/6/2022,Y,N,14.99,?,36.000918,0.087565,1.0833,0.0,Y,N,30.00,?,?,?,30.280000,?,2,DURING & AFTER CAMP,2,Normal
+697,45,28,Male,Malaysia,MALACCA,Active,Active,N,?,N,N,?,?,0.0,2.9e-05,0.0,0.0,N,Y,?,5.00,?,?,?,?,10,BEFORE & AFTER CAMP,3,Premium
+698,29,24,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,4,BEFORE & AFTER CAMP,2,Normal
+699,50,26,Male,Malaysia,JOHORE,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,2,BEFORE & AFTER CAMP,1,Saver
+700,35,24,Male,Malaysia,KELANTAN,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,5,BEFORE & AFTER CAMP,2,Normal
+701,25,28,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.786053,2.510057,0.0,0.0,Y,N,5.00,?,?,?,2.000000,?,9,DURING & AFTER CAMP,2,Normal
+702,244,87,Male,Malaysia,JOHOR,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,23,BEFORE CAMP THEN REMAIN,2,Normal
+703,53,31,Male,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.013555,0.006002,0.0,0.0,N,N,?,?,?,?,?,?,11,BEFORE & AFTER CAMP,2,Normal
+704,66,27,Male,Malaysia,PENANG,Active,Active,Y,10/6/2022,Y,Y,15.00,3.00,1.764665,0.75697,0.0,0.0,N,Y,?,10.00,?,?,?,3.800000,0,BEFORE & AFTER CAMP,1,Saver
+705,23,53,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,2.00,2.00,2.000000,2.000000,4,BEFORE & AFTER CAMP,2,Normal
+706,64,22,Female,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.00962,0.0,0.0,0.0,N,N,?,?,0.15,?,?,?,39,NO ACTIVITY SINCE SEP,3,Premium
+707,30,62,Male,Malaysia,PENANG,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,BEFORE & AFTER CAMP,1,Saver
+708,47,23,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,7.903714,0.005273,0.0,0.0,N,N,?,?,?,?,?,?,0,DURING & AFTER CAMP,1,Saver
+709,50,40,Male,Malaysia,KEDAH,Active,Active,N,?,N,Y,?,4.00,8.402535,2.501525,0.0,0.0,N,Y,?,30.00,?,?,?,18.000000,0,DURING & AFTER CAMP,3,Premium
+710,111,32,Female,Malaysia,KLANG VALLEY,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,2.00,?,?,?,36,NO ACTIVITY SINCE SEP,2,Normal
+711,45,23,Male,Malaysia,KELANTAN,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,0.50,?,0.500000,?,3,BEFORE & AFTER CAMP,3,Premium
+712,92,29,Female,Malaysia,SABAH,Active,Active,N,?,N,N,?,?,0.0,0.0,0.0,0.0,Y,N,5.00,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,2,Normal
+713,91,27,Female,Malaysia,N SEMBILAN,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,17.35,Y,Y,5.00,5.00,?,?,?,5.550000,17,BEFORE & AFTER CAMP,3,Premium
+714,90,29,Female,Malaysia,SABAH,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.002528,0.0,0.0333,0.0,N,Y,?,5.00,?,?,0.300000,?,35,NO ACTIVITY SINCE SEP,3,Premium
+715,51,71,Female,Malaysia,SARAWAK,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,1,DURING & AFTER CAMP,1,Saver
+716,26,25,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,Y,15.00,4.00,4.141616,34.718187,0.0,0.0,Y,Y,10.00,30.00,3.00,3.00,?,29.400000,0,DURING & AFTER CAMP,2,Normal
+717,36,37,Male,Malaysia,JOHORE,Active,Active,N,?,Y,Y,4.00,3.00,0.433206,0.652595,0.0,0.0,Y,Y,20.00,10.00,?,?,15.000000,11.000000,0,DURING & AFTER CAMP,2,Normal
+718,194,82,Male,Malaysia,PENANG,Active,Close,N,?,N,N,?,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,17,DURING & AFTER CAMP,1,Saver
+719,30,30,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,N,29.99,?,5.2e-05,0.0,0.0,0.0,Y,Y,30.00,10.00,?,?,29.990000,?,2,BEFORE & AFTER CAMP,2,Normal
+720,107,72,Male,Malaysia,JOHORE,Active,Active,Y,10/6/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,38,NO ACTIVITY SINCE SEP,3,Premium
+721,41,72,Female,Malaysia,PENANG,Active,Active,Y,10/6/2022,N,N,?,?,0.0,0.0,0.2,0.7,N,N,?,?,?,?,0.600000,0.300000,17,BEFORE & AFTER CAMP,3,Premium
+722,65,35,Male,Malaysia,KLANG VALLEY,Active,Active,Y,10/6/2022,Y,Y,35.00,35.00,18.849208,9.667026,75.3167,51.3333,Y,Y,40.00,40.00,?,?,39.310000,35.000000,0,BEFORE & AFTER CAMP,2,Normal
+723,149,29,Female,Malaysia,KLANG VALLEY,Active,Active,Y,10/5/2022,Y,N,15.00,?,0.0,0.0,0.0,0.0,N,N,?,?,?,?,?,?,33,NO ACTIVITY SINCE SEP,3,Premium
+724,126,39,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,Y,15.00,10.00,0.000693,0.0,0.0,0.0,Y,Y,10.00,10.00,?,?,?,10.000000,34,NO ACTIVITY SINCE SEP,2,Normal
+725,62,23,Male,Malaysia,TERENGGANU,Active,Active,Y,10/5/2022,Y,N,15.00,?,5.352334,0.035016,6.3333,0.9833,Y,N,5.00,?,?,?,1.450000,0.200000,0,DURING & AFTER CAMP,1,Saver
+726,29,61,Male,Malaysia,SARAWAK,Active,Active,Y,10/6/2022,Y,N,15.00,?,15.24856,0.0,6.9333,0.0,Y,N,10.00,?,?,?,3.240000,?,36,NO ACTIVITY SINCE SEP,2,Normal
